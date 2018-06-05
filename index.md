@@ -339,3 +339,177 @@ the Board of Managers, but must be eligible to be elected to the Board of
 Managers. Such committee shall not have power to do any act which the Executive 
 Committee may not do under subsections (a)-(d) of Section 15 of Article II.
 
+ARTICLE III -- UNIT OWNERS
+
+Section l. Annual Meetings.
+
+(a) Within sixty days after the earlier of (i) the ciosing of title to Units 
+whose aggregate Common Interest exceeds fifty percent or (ii) two years from the 
+Pirst Unit Closing, or such earlier time as Sponsor deems to be in the best 
+interest of the parties the Sponsor shall call a special Unit Owners meeting for 
+the purpose of electing a Board of Managers. .At such meeting the Board of 
+Managers shall resign and a new Board shall be elected by the Unit Owners. 
+Thereafter, annual meetings s hall be held on or about the anniversary of such 
+date each succeeding year. At such meetings, there shall be elected by ballot of 
+the Unit Owners a Board of Managers in accordance with the require- ments of 
+Article II of these By-Laws. The Unit Owners may also transact such other 
+business of the Condominium as may properly come before them.
+
+(b) Sponsor's Right to Elect Members of the Board of Managers. So long as the 
+Sponsor or a Sponsor-designee shall continue to own: (i) Units representing 40% 
+or more in Common Interest, the Sponsor or Sponsor~designee shall have the right 
+to elect three of the five members of the Board of Managers; (ii) Units 
+representing 20% or more but less than 40% in Common Interest, the Sponsor or 
+Sponsor-designee shall have the right to elect two of the five members of the 
+Board of Managers; (iii) at least one Unit but less than 20% in.Common Interest, 
+the. Sponsor or Sponsor-designee shall have the right to elect one of the five 
+members of the Board of Managers. Members of the Board of Managers elected by 
+the Sponsor or Sponsor-designee shall serve for a term of one year. All other 
+members of the Board of Managers shall be elected by the Unit Owners and shall 
+serve for the terms prescribed by these By-Laws. The Unit Owners may transact 
+such other business at such meetings as any properly come before them.
+
+Section 2. Place of Meetings. Meetings of the Unit Owners shall be held at the 
+principal office of the Condominium or at such other suitable place convenient 
+to the Unit Owners as may be designated by the Board of Managers.
+
+Section 3. Special Meetings. It shall be the duty of the President to call a 
+special meeting of the Unit Owners as directed by the Board of Managers or upon 
+a petition signed by a majority of the Unit Owners as defined in Section 9 of 
+this Article III having been presented to the Secretary. The notice of any 
+special meeting shall state the time and Place of such
+
+of Unit Owners cannot be held because a quorum has not
+
+-
+
+meeting and the purpose thereof. No business shall-be transacted
+at a special meeting except as stated in the notice.
+
+Section 4. Notice of Meetings. It shall be the duty of the Secretary to mail a 
+notice of each annual or special meeting of the Unit Owners, at least ten but 
+not more than thirty days prior to such meeting, stating the purpose thereof as 
+vell as the time and place where it is to be held, to each Unit Owner of record, 
+at the building or at such other address as such Unit Owner shall have 
+designated by notice in writing to the Secre- tary. Tf the purpose of any 
+meeting shall be to act upon a proposed amendment to the Declaration or to these 
+By-Laws, the notice of meeting shall be mailed at least ten days prior to such 
+meeting. The mailing of a notice of meeting. in the manner provided in this 
+Section shall be considered service of notice,
+
+Section 5. Adjournment of Meetings. If an meeting of Unit Owners cannot be held 
+because a quorum has not attended, a majority of the Unit Owners who are present 
+at such meeting, either in person or by proxy,may adjourn the meeting to a time 
+not less than forty-eight hours from the time the original meeting was called.
+
+Section 6. Order of Business. The order of business
+at all meetings of the Unit Owners shall be as follows:
+
+a. Roll call
+
+b. Proof of notice of meeting
+
+c. Reading of minutes of preceding meeting
+
+d. Reports of officers .
+
+e. Report of Board of Managers
+
+f. Reports of committees
+
+g. Election of inspectors of .ection (when so required)
+
+h. Election of members of the Board of Managers (when so required)
+
+i. Unfinished business
+
+j. New business
+
+Section 7. Title to Units. Title to Units may be taken in the name of an 
+individual or in the names of two or more persons, as tenants in common or as 
+joint tenants or as tenants by the entirety or in the name of a corporation or 
+partnership, or in the name of a fiduciary or trust, estate, unincorporateg 
+association, syndicate, joint venture, Organization, government or any 
+department or agency thereof, or any other entity permit- ted to own real 
+property in the State of New York. The cerm "Unit Owner” as used in these 
+By-Laws shall include any person, group or persons, association or entity taking 
+title as Set forth in this Section. The above shall not constitute consent or 
+condonation of any activity nor permitted under existing certifi- cates of 
+occupancy, zoning requirements or other applicable law or regulation.
+
+Section 8. Voting. The Owner or Owners of each Unit, or some person designated 
+by such Owner or Owners to act as proxy on his or their behalf and who need not 
+be an Owner, shall be entitled to cast the votes appurtenant to such Unit at all 
+meetings of Unit Owners. The designation of any such proxy shall be made in 
+writing to the Secretary, and shall be revocable at any time by written notice 
+to the Secretary by the Owner or Owners so designating. Any or all of such 
+Owners may be present at any meeting of the Unit Owners. The Owners of each Unit 
+if the Sponsor or its designee shall then own one or more Units) shall been 
+titled to cast one vote for each .0001% of interest in the Common Elements 
+attributable to the Unit or Units owned by them on all matters put to a vote at 
+all meetings of unit Owners; except that, when voting for the election of 
+members of the Board — of. Managers,each:-Unit Owner: (i) shall be entitled to 
+one vote for each .0001% of Common Interest attributable to his Unit per member 
+to be elected, and (ii) shall not have the right to cumu- late his votes in 
+favor of any one or more members to be elected. If Units are owned by more than 
+one person as joint tenants, tenants by the entirety or as tenants in common or 
+by a partner- ship, corporation or other entity, the persons owning said Unit 
+shall agree among themselves and cast the votes for their Unit. A fiduciary 
+shall be the voting member with respect to any Unit in a fiduciary capacity. Any 
+Onit or Units owned by the Board of Managers or its designee shall not be 
+entitled to vote.
+
+Section 9. Majority of Unit Owners. As used in these By-Laws the term “majority 
+of Unit Owners" shall mean those Unit Owners having greater than 50% of the 
+total authorized votes of all Unit Owners present in person or by proxy and 
+voting at any meeting of the Unit Owners, determined in accordance with the 
+provisions of Section 8 of this Article III
+
+Section 10. Quorum. Except as otherwise provided in these By-Laws, the presence 
+in person or by proxy of a majority of Unit Owners shall constitute a quorum at 
+all meetings of the Unit Owners.
+
+Section ll. Majority Vote. The vote of a majority of Onit Owners at a meeting at 
+which a quorum shall be present shall be binding upon all Unit Owners for all 
+purposes except where, in the Declaration of these By-Laws or by law, ; a higher 
+percentage vote is required. _.
+
+Section 12. Action Without Meeting. Any action required or permitted to be taken 
+by the Unit Owners may be taken without a meeting if the number of Unit Owners 
+required by the Declaration, these By-Laws or applicable law consent in writing 
+to the adoption of a resolution authorizing such action and. the writing or 
+writings are filed with the records of the Con- dominium.
+
+ARTICLE IV -- OFFICERS
+
+Section 1. Designation. The principal officers of the - Condominium shall be the 
+President, the Vice President,the Secretary and the Treasurer, all of whom shall 
+be elected by the Board. of Managers. The Board of Managers may appoint an 
+assis- tant treasurer, an assistant secretary, and such other officers as in its 
+judgment may be necessary. The President and ~-Vice President, but no other 
+officers, need be members of the Board of Managers.
+
+Section 2. Election of Officers. The officers of the Condominium shall be 
+elected annually by the Board of Managers at the organization meeting of each 
+new Board of Managers and shall hold office at the pleasure of the Board of 
+Managers and until their successors are elected.
+
+Section 3. Removal of Officers. Upon the affirmative vote of a majority of the 
+members of the Board of Managers, any officer may be removed, either with or 
+without cause, and his successor may be elected at any regular meeting of the 
+Board of Managers, or at any special meeting of the Board of Managers called for 
+such purpose.
+
+Section 4. President. The President shall be the chief executive officer of the 
+Condominium. He shall preside at all meetings of the Unit Owners and of the 
+Board of Managers. de shall have all of the general powers and duties which are 
+incident to the office of president of a stock corporation organized under the 
+Business Corporation Law of the State of New York including the power to appoint 
+members of committees created by the Board of Managers from among the Unit 
+Owners from time to time.
+
+Section 5. Vice President. The Vice President shall take the place of the 
+President and perform his duties whenever the President shall be absent or 
+unable to act. I£ neither the President nor the Vice President is able to act, 
+the Board of Managers is to act in the place of the President, on an interim
+
