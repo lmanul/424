@@ -19,7 +19,11 @@ img {
   max-width: 80%;
 }
 
-h2 {
+h1, h2, h3 {
+  font-family: arial;
+}
+
+h1, h2 {
   text-align: center;
 }
 
