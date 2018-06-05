@@ -1,7 +1,7 @@
 # Site settings
 title: 424 By-Laws
 baseurl: ""
-url: "lmanul.github.io/424-bylaws/"
+url: "http://lmanul.github.io/424-bylaws/"
 
 # Build settings
 markdown: kramdown
