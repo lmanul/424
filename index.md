@@ -59,7 +59,7 @@ The office of the Condominium and of the Board of Managers shall be located at
 the Property.
 
 
-ARTICLE II -- BOARD OF MANAGERS
+## ARTICLE II -- BOARD OF MANAGERS
 
 Section 1. Number and Tern. The number of Managers which shall constitute the 
 whole Board shall not be less than three and not more than five. Ontil succeeded 
@@ -339,7 +339,7 @@ the Board of Managers, but must be eligible to be elected to the Board of
 Managers. Such committee shall not have power to do any act which the Executive 
 Committee may not do under subsections (a)-(d) of Section 15 of Article II.
 
-ARTICLE III -- UNIT OWNERS
+## ARTICLE III -- UNIT OWNERS
 
 Section l. Annual Meetings.
 
@@ -480,7 +480,7 @@ required by the Declaration, these By-Laws or applicable law consent in writing
 to the adoption of a resolution authorizing such action and. the writing or 
 writings are filed with the records of the Con- dominium.
 
-ARTICLE IV -- OFFICERS
+## ARTICLE IV -- OFFICERS
 
 Section 1. Designation. The principal officers of the - Condominium shall be the 
 President, the Vice President,the Secretary and the Treasurer, all of whom shall 
@@ -544,7 +544,7 @@ Section 10. Liability of Officers. The officers of the Condominium shall have
 the same rights and liabilities as the members of the Board of Managers under 
 Article II Section 14 of these By-Laws.
 
-ARTICLE V -- NOTICES
+## ARTICLE V -- NOTICES
 
 Section 1. Definition. Whenever under the provisions of the Declaration or of 
 these By-Laws, notice is required to be given to the Board of Managers, any 
@@ -560,7 +560,7 @@ under the provisions of the Declaration or of these By-Laws, a waiver thereof,in
 writing, signed by the person or persons entitled to such notice, whether before 
 or after the time stated therein, shall be deemed the equivalent thereof.
 
-ARTICLE VI -- OPERATION OF THE PROPERTY
+## ARTICLE VI -- OPERATION OF THE PROPERTY
 
 Section 1. Determination of Common Expenses and Pixing of Common Charges. The 
 Board of Managers shall from time to time, at least annually, prepare a budget 
@@ -970,7 +970,7 @@ to Units and gas to Common Elements shall be metered by one or more meters, and
 the Board of Managers shall pay the bills for such consumption as a Common 
 Expense.
 
-ARTICLE VII -- MORTGAGES
+## ARTICLE VII -- MORTGAGES
 
 Section 1. Notice to Board of Managers. A Unit Owner who mortgages his Unit 
 shall notify the Board of Managers of the name and address of his mortgagee and 
@@ -996,7 +996,7 @@ of account of the Condominium at reasonable times, on reasonable
 notice to the manager,managing agent or Board of Managers on.
 business days.
 
-ARTICLE VIII -- SALES, LEASES AND MORTGAGES OF UNITS
+## ARTICLE VIII -- SALES, LEASES AND MORTGAGES OF UNITS
 
 Section 1. Sales and Leases. No Unit Owner other than the Sponsor or 
 Sponsor-designee may sell or lease his Unit or any interest therein except by 
@@ -1180,7 +1180,7 @@ as the case may be. Prior to or simultaneously with the closing of any mortgage,
 the Unit Owner must satisfy all ar- rearages for unpaid Common Charges or 
 assessments and discharge any liens therefor.
 
-ARTICLE IX -- CONDEMNATION
+## ARTICLE IX -- CONDEMNATION
 
 Section 1. - Condemnation. In the event of a taking in condemnation or by 
 eminent domain of part or all of the Common Elements, the award made for such 
@@ -1200,7 +1200,7 @@ restoration of the damage, as provided in Sections 3 of this Article VI of these
 By-Laws. As used in this Section, the words “promptly approve” shall mean not 
 more than Sixty days from the date of such taking.
 
-ARTICLE X -- RECORDS
+## ARTICLE X -- RECORDS
 
 Section l. Records and Audits. The Board of Managers or the managing agent shall 
 keep detailed records of the actions managing agent, minutes of the meetings of 
@@ -1215,7 +1215,7 @@ shall be rendered by the Board of Managers to all Unit Owners, and. to each
 holder of a mortgage constituting a first lien on one or more Units, promptly 
 after the end of each fiscal year. .
 
-ARTICLE XI -- MISCELLANEOUS
+## ARTICLE XI -- MISCELLANEOUS
 
 Section 1. Invalidity. The invalidity of any part of these By-Laws shall not 
 impair or affect in any manner the validity, enforceability or effect of the 
@@ -1251,7 +1251,7 @@ Section 6. Definition of "Mortgagee". As used in these By-Laws, the term
 “mortgagee” or “holder of a first mortgage” shall include the holder of any 
 construction loan mortgage which shall be a lien on a unit.
 
-ARTICLE XII -- AMENDMENTS TO THE BY-LAWS
+## ARTICLE XII -- AMENDMENTS TO THE BY-LAWS
 
 Section 1. Amendment to By-Laws. These By-Laws may be modified or amended by the 
 vote of 66 2/3% in number and in Common Interest of all Unit Owners at a meeting 
@@ -1261,7 +1261,7 @@ the Rules and Regulations of the Condominium attached here to, may not be
 amended or modified in any way so as to adversely affect Sponsor or its 
 designee, in Sponsor's sole discretion, without Sponsor's prior written consent.
 
-ARTICLE XIII -- CONFLICTS
+## ARTICLE XIII -- CONFLICTS
 
 Section 1. Conflicts. These By-Laws are set forth to comply with the 
 requirements of Article 9-B of the Real Property Law of the State of New York. 
