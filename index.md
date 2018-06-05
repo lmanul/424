@@ -1145,5 +1145,280 @@ a mortgagee herein authorized who shall acquire title to such Unit by
 foreclosure or by deed in lieu of foreclosure. _ However, the provisions of this 
 section shall apply with respect to any purchaser of a Unit from a mortgagee.
 
+Section 8. Gifts and Devises, etc. Any Unit Owner shall be free to convey or 
+transfer his Unit by gift or to devise his Unit by will, or to pass the same by 
+intestacy, without restriction.
+
+Section 9. Waiver of Right of Partition with Respect to Such Units as are 
+Acquired by the Board of Managers or its Designee, on Behalf of All Unit Owners 
+as Tenants in Common. In the event that a Unit shall be acquired by the Board of 
+Managers, or its designee,on behalf of all Unit Owners as tenants in common,all 
+such Unit Owners shall-be deemed to have waived all rights of partition with 
+respect to such Unit.
+
+Section 10. Payment of Common Charges and Assessments. No Unit Owner shall be 
+permitted to convey, mortgage, pledge, hypothecate, sell or lease his Unit 
+unless and until he shall have paid in full to the Board of Managers all unpaid 
+Common Charges and assessments theretofore assessed by the Board of Managers 
+against his Unit and until he shall have satisfied all unpaid liens against such 
+Unit, except permitted mortgages.
+
+Section ll. Mortgage of Units. No Unit Owner shall mortgage his Unit, except by 
+a first and/or second mortgage made to a bank, trust company, insurance company, 
+federal savings and loan association, pension fund or other institutional lender 
+or a purchase money mortgage made to the Sponsor, Sponsor-designee, or to the 
+seller of the Unit. Any. such mortgage shall be substan- tially in the form on 
+file with the Board of Managers, except for such changes or additions as may be 
+required in order to permit the particular institutional. lender to make the 
+mortgage loan, or to the extent permitted by the Board of Managers. A mortgage 
+may be made to a reputable private lender, other than a lender as above 
+described, provided the same is approved in writing by either the Sponsor, prior 
+to the Sponsor's relinquishing control of the Board of Managers, or the Board of 
+Managers, subsequent to the release of control by the Sponsor. Such approval 
+shall be in the sole and absolute discretion of Sponsor or the Board of Managers 
+as the case may be. Prior to or simultaneously with the closing of any mortgage, 
+the Unit Owner must satisfy all ar- rearages for unpaid Common Charges or 
+assessments and discharge any liens therefor.
+
+ARTICLE IX -- CONDEMNATION
+
+Section 1. - Condemnation. In the event of a taking in condemnation or by 
+eminent domain of part or all of the Common Elements, the award made for such 
+taking shall be payable to the Board of Managers, if such award amounts to 
+$25,000.00 or less, and to the Insurance Trustee if such award amounts to more 
+than $25,000.00. If seventy-five percent or more of the Unit Owners duty and 
+promptly approve the repair and restoration of such Common Elements, the Board 
+of Managers or the Insurance Trustee, as the case maybe, shall arrange for the 
+repair and restoration of such Common Elements, and the Board of Managers or the 
+Insurance Trustee, as the case may be, shall disburse. proceeds of such award to 
+the contractors engaged in and restoration in appropriate progress payments. In 
+-the event that seventy-five percent or more of the Unit Owners do not duly and 
+promptly approve the repair and restoration of such Common Element, the Board of 
+Managers shall disburse the net Proceeds of such award in the same manner ag 
+they are required to distribute insurance proceeds where there is no repair of 
+restoration of the damage, as provided in Sections 3 of this Article VI of these 
+By-Laws. As used in this Section, the words “promptly approve” shall mean not 
+more than Sixty days from the date of such taking.
+
+ARTICLE X -- RECORDS
+
+Section l. Records and Audits. The Board of Managers or the managing agent shall 
+keep detailed records of the actions managing agent, minutes of the meetings of 
+the Board of Managers, minutes of the meetings of the Onit Owners, and financial 
+records and books of account of the condominium, including a chronolo 
+expenditures, as well as a Separate account for each Unit which, among other 
+things, shall contain the amount of each assessment sf Common Charges against 
+such Unit, the date when due, the amounts paid thereon, and the balance 
+remaining unpaid. [n addition, an annual report of the receipts and expenditures 
+of the Condominium, certified by an independent certified public accountant, 
+shall be rendered by the Board of Managers to all Unit Owners, and. to each 
+holder of a mortgage constituting a first lien on one or more Units, promptly 
+after the end of each fiscal year. .
+
+ARTICLE XI -- MISCELLANEOUS
+
+Section 1. Invalidity. The invalidity of any part of these By-Laws shall not 
+impair or affect in any manner the validity, enforceability or effect of the 
+balance of these By- Laws. .
+
+Section 2. Captions. The captions herein are inserted only as a matter of 
+convenience and for reference, and in no way define, limit or describe the scope 
+of these By~Laws, or the intent of any provision thereof.
+
+Section 3. Gender. The use of the masculine gender in
+these By-Laws shall be deemed to include the feminine gender and
+the use of the singular shall. be deemed to include the Plural,
+whenever the context so requires.
+
+Section 4. Waiver. No restriction, condition, obligation, or provision contained 
+in these By-Laws, shall be deemed to have been abrogated or waived by reason of 
+any failure to enforce the same, irrespective of the number of violations or 
+breaches thereof which may occur.
+
+Section 5. Insurance Trustee. The Insurance Trustee shall be a bank, trust 
+company or savings and loan association in the State of New York, designated by 
+the Board of Managers (with the approval of each of the holders of five or more 
+Unit. first mortgagees). In the event that the Insurance Trustee shall tesign, 
+the new Insurance Trustee shall also be a bank, trust company or savings and 
+loan association in the State of New York, designated by the Board of Managers 
+(with the approval of each of the holders of five or more Unit first 
+mortgagees). The Board of Managers shall pay the fees and disbursements of any 
+Insurance Trustee and such fees and disbursements shall constitute a Common 
+Expense of the Condominium. Such Insurance Trustee shall be selected within 
+sixty days subsequent to the First Unit Closing.
+
+Section 6. Definition of "Mortgagee". As used in these By-Laws, the term 
+“mortgagee” or “holder of a first mortgage” shall include the holder of any 
+construction loan mortgage which shall be a lien on a unit.
+
+ARTICLE XII -- AMENDMENTS TO THE BY-LAWS
+
+Section 1. Amendment to By-Laws. These By-Laws may be modified or amended by the 
+vote of 66 2/3% in number and in Common Interest of all Unit Owners at a meeting 
+of Unit Owners duly held for such purpose. However, for as long as Sponsor or 
+its designee remains the Owner of one or more Units, these By- Laws, including 
+the Rules and Regulations of the Condominium attached here to, may not be 
+amended or modified in any way so as to adversely affect Sponsor or its 
+designee, in Sponsor's sole discretion, without Sponsor's prior written consent.
+
+ARTICLE XIII -- CONFLICTS
+
+Section 1. Conflicts. These By-Laws are set forth to comply with the 
+requirements of Article 9-B of the Real Property Law of the State of New York. 
+In case any of these By-Laws conflict with the provisions of said statute or of 
+the Declara- tion, the provisions of said statute or of the Declaration, as the 
+case may be, shall control.
+
+SHEDULE A
+
+RULES AND REGULATIONS OF 424 WEST 49TH STREET CONDOMINIUM
+
+1. With the exception of the Commercial Unit, the Units May be used only for 
+private residential use, except that a Unit Owner may use his Unit for any home 
+occupation use permitted under applicable zoning law and ordinances, building 
+code or other rules and regulations of governmental authorities having 
+jurisdiction. Such Units may also be used as professional offices by a resident 
+thereof provided approved for such professional use is obtained. No illuminated 
+or other sign may be used in connection with the aforementioned use with the 
+exception of a professional Sign, non-il- luminated, not larger than the size 
+permitted by the Board of Managers. ~
+
+2. Except as set forth above, no industry, business, trade, occupation or 
+profession of any kind, commercial, religious, educational or otherwise, 
+designed for profit, altruism, or otherwise, shall be conducted, maintained or 
+permitted in any part of the Residential Units or Common Elements nor shall any 
+"Por Sale", "Por Rent" or. "For Lease" signs or other window displays or 
+advertising be maintained or permitted in any Residential unit therein or 
+adjoining Common Elements, nor shall any Residential Unit be rented for 
+transient, hotel or motel purposes. The right is reserved by the Sponsor, its. 
+designee and the Board of Managers, or its agent, to place "Por Sale", "Por 
+Rent" or “For Lease” or similar signs on any unsold or unoccupied Units, and the 
+right is hereby given to any mortgagee, who may become the owner of any Unit, to 
+place such signs on any Unit owned by such mortgagee, but in no event will any 
+such sign be larger than one (1l') foot by two (2°) feet. Additionally, the 
+right is reserved by Sponsor and its designee to maintain and staff one or more 
+vacant and unsold Units in the Building as a sales office and/or model Unit. 
+Sponsor and its designee shall have the right to place "For Sale," “For Rent" or 
+"For Lease” signs or similar signs on or in the vicinity of the Building without 
+regard to size.
+
+3. No exterior of any Unit or the windows or doors thereof or any other portions 
+of the Common Elements shall be painted or decorated by any Owner or in. any 
+manner without prior written consent of the Board of Managers.
+
+4. No furniture, equipment, or other personal articles shall be placed in 
+entrances, hallways, stairways, or other Common Elements.
+
+5. No Unit Owner shall make or permit any noise or ‘objec tionable odor that 
+will disturb or annoy the occupants c any of the Units in the Building or do or 
+permit anything tz be done therein which will interfere with the cights, 
+comfort, Or convenience of other Unit Owners.
+
+6. Each Unit Owner shall keep his Unit in a good. state of preservation and 
+cleanliness and shall not sweep or throw or permit to be swept or thrown 
+therefrom, or from the doors or windows of a Unit, any dirt or other substances.
+
+7. No exterior shades, awnings, window guards, ventilators, fans or 
+air-conditioning devices shall be used on or about> the Suilding or Common 
+Elements except such as shall have been approved by the Board of Managers.
+
+8. Except as provided above, no sign,: notice, letteri. , or advertisement shall 
+be inscribed or exposed on or ~. any window, door, or other part of the 
+Building, except such as shall have been approved in writing by the Board of 
+Mana- gers, nor shall anything be projected out of any window of the Building 
+without similar approval.
+
+9. All garbage and refuse from the Building shall be deposited with care in 
+plastic bags or other suitable receptacles intended for such purpose only at 
+such times and in such manner as the Board of Managers may direct. ,
+
+10. Water- closets and other water apparatus in the Building shall not be used 
+for any purposes other than those for which they were constructed; nor shall any 
+sweepings, rubbish, rags, paper, ashes, or any other article be thrown into the 
+same. Any damage resulting from misuse of any water closet or other apparatus 
+shall be paid for by the Unit Owner causing such damage.
+
+11. No Unit Owner shall engage any employee of the Condominium for any private 
+business of the Unit Owner without prior written consent of the Board of 
+Managers.
+
+12. No bird or animal shall be kept or harbored in the Building unless the same 
+in each instance be expressly permitted in writing by the Board of Managers. In 
+no event shall. dogs be permitted in any of the public portions of the Building 
+unless carried or on a leash. The individual Unit Owners who keep an animal in 
+the Building shall each indemnify the Board of Managers and hold it harmless 
+against any loss or liability of any kind or character whatsoever arising from 
+or as a result of the Unit Owner having any animal in the Building.
+
+13. No radio or ‘television aerial shall be attached to or hung from the 
+exterior of the Building without written approval . of the Board of Managers. 
+The Board of Managers, upon the request of any Unit Owner, shall allow the 
+installation of any hook-up necessary to provide cable television service to the 
+Units.
+
+14. The agents of the Board of Managers, and any contractor or workman 
+authorized by them, may enter any Unit at a reason- able hour of the day for any 
+purpose permitted under the terms of the Declaration, By-Laws, or Rules and 
+-Regulations of the Condominium.
+
+15. The Board of Managers may retain a Passkey to each Unit. No Onit Owner shall 
+alter any lock on any door leading into his Onit without the prior consent of 
+the Board of Managers. If such consent is given, the Unit Owner shall provide 
+the Board of Managers with a key for their use.
+
+16. No Unit Owner or any visitor, guest, patient, employee or any client of a 
+Unit Owner shall be allowed in the heating, electrical or mechanical equipment 
+areas without the express permission of the Board of Managers.
+
+17. All damage to the Building or Common Elements caused by the moving or 
+carrying of any article therein shall be paid by the Unit Owner responsible for 
+the presence of such article.
+
+18. No Unit Owner shall interfere in any manner with any portion of the heating 
+or lighting apparatus which are part of the Common Elements and not part of the 
+Unit Owner's Unit.
+
+19. No Unit Owner shall use OF permit to be brought into the Building any 
+inflammable oils or fluids such as gasoline, kerosene, naptha, benzine, or other 
+explosives or articles deemed extra hazardous to life, limb or property without 
+in — each case obtaining the written consent of the Board of Managers.
+
+20. The Unit Owner shall not be allowed to put his name on any entry to the 
+Building or entrance to any Unit, except in the proper places approved by the 
+Board of Managers for such purposes.
+
+21. Any damage to the Building or equipment caused by Unit Owners, their guests, 
+visitors, clients, patients or employees shall be repaired at the expense of the 
+said Unit Owner.
+
+22. Complaints regarding the Management of the Building and grounds or regarding 
+the actions of other Unit Owners shall be made in writing to the Board of 
+Managers.
+
+23. No Unit shall be used or be occupied in such manner as to obstruct or 
+interfere with the enjoyment of occupants or owners Of adjoining Units; nor 
+shall any nuisance or immoral or illegal activity be committed -or permitted to 
+occur in or about any Unit or upon any part of the Common Elements.
+
+24. Certain parts of the Common Elements are intended for the purpose of 
+affording pedestrian movement within the. Con- dominium and of providing access 
+to the Units. No part of the Common Elements shall be obstructed as to interfere 
+with its use for the purposes hereinabove recited; nor shall any part of the 
+Common Elements be used for general storage purposes, except maintenance 
+storage; nor shall anything be. done thereon in any manner which shall increase 
+the rate of hazard and liability insurance covering said area and improvements 
+situated thereon.
+
+25. No immoral, improper, offensive, or unlawful use shall be made of the 
+Property or any part thereof, and all valid laws, zoning ordinances and 
+regulations of all governmental bodies having jurisdiction thereof shall be 
+observed. Violations of laws, orders, rules, regulations or require- ments of 
+any governmental agency having jurisdiction thereof, relating to any portion of 
+the Property, shall be eliminated, by and at the sole expense of the Unit 
+Owners, or the Board of Managers, whichever shall have the obliga- tion to 
+maintain or repair such portion of the Property.
+
+26. Subject to provisions of the By-Laws, these Rules and Regulations may be 
+added to or repealed at any time by the Board of Managers.
 
 
