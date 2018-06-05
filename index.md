@@ -17,7 +17,7 @@ New York, New York 10022
 
 ## ARTICLE I -- PLAN OF UNIT OWNERSHIP
 
-Section 1. Unit Ownership.
+### Section 1. Unit Ownership.
 
 The property, located in the borough of Manhattan, County of New York, City and 
 State of New York at 424 West.-49th Street, New York, New York (herein after 
@@ -27,7 +27,7 @@ recorded in the New York County Office of the Register of the City of New York,
 simultaneously herewith. The Condominium thereby created shall hereinafter be 
 known as 424 West 49th Street Condominiun.
 
-Section 2. Applicability of By-Laws.
+### Section 2. Applicability of By-Laws.
 
 The provisions of these By-Laws are applicable to the Property of the 
 Condominium and to the use and occupancy thereof. The term "Proper- ty” as used 
@@ -40,7 +40,7 @@ provisions of said Article 9-B of the Real Property Law of the State of New
 York. The Condominium Units are hereinafter sometimes referred to as "Unit" or 
 "Units".
 
-Section 3. Application.
+### Section 3. Application.
 
 All present and future owners, mortgagees, lessees and eccupants of Units and 
 their employees, and any other persons who May use the facilities of the 
@@ -53,7 +53,7 @@ By-Laws, the Rules and Regulations and the provisions of the Declaration, as
 they may be amended from time to time, are accepted, ratified, and will be 
 complied with.
 
-Section 4. Office.
+### Section 4. Office.
 
 The office of the Condominium and of the Board of Managers shall be located at 
 the Property.
@@ -61,7 +61,9 @@ the Property.
 
 ## ARTICLE II -- BOARD OF MANAGERS
 
-Section 1. Number and Tern. The number of Managers which shall constitute the 
+### Section 1. Number and Tern.
+
+The number of Managers which shall constitute the 
 whole Board shall not be less than three and not more than five. Ontil succeeded 
 by thé Managers elected at the first meeting of Unit Owners called for such 
 purpose, Managers need not be Unit Owners; thereafter, all Managers, other than 
@@ -84,7 +86,9 @@ term of three years for as long as there are five Managers. The Managers shall
 hold office until their successors have been elected and hold. their first 
 meeting.
 
-Section 2. Powers and Duties. The Board of Managers shall have the powers and 
+### Section 2. Powers and Duties.
+
+The Board of Managers shall have the powers and 
 dut:2s necessary for the administration of the affairs of the Condom-nium and 
 may do all such acts and. things except as by law or by che Declaration or by 
 these By-Laws may not be delegated to the Board of Managers by the Unit Owners. 
@@ -188,7 +192,9 @@ Sponsor-designee shall not withhold its consent to the making of capital repairs
 to the Common Elements or assessment of any Common Charge for expenses required 
 to comply with applicable law.
 
-Section 3, Managing Agent and Manager. The Board of Managers may employ for the 
+### Section 3, Managing Agent and Manager.
+
+ The Board of Managers may employ for the 
 Condominium a Managing agent and/or a manager at a compensation established by 
 the Board of Managers to perform such duties and services as the Board of 
 Managers shall authorize. The Board of Managers may delegate to the Manager or 
@@ -197,14 +203,18 @@ By-Laws other than the -powers set forth in . Subdivisions (b), (e), (£), (g),
 (mh), (i), (J), (k)- (m), (0) and ‘(p) of Section 2 of this Article II. The 
 managing agent or manager may not be a member of the Board of Managers.
 
-Section 4. First Board of Managers. The first Board of Managers shall consist of 
+### Section 4. First Board of Managers.
+
+The first Board of Managers shall consist of 
 persons designated by the Sponsor, who shall hold office and exercise all powers 
 of the Board of Managers until the first meeting of Unit Owners called for the 
 purpose of electing Managers. Any or all of said Managers shall be subject to 
 replacement in the event of resignation or death in the manner set forth in 
 Section 6 of this Article.
 
-Section 5. Removal of Members of the Board of Managers. At any regular or 
+### Section 5. Removal of Members of the Board of Managers.
+
+At any regular or 
 special meeting of Unit Owners, any one or more of the members of the Board of 
 Managers, other than a member designated by the Sponsor or a Sponsor-designee, 
 may be removed with or without cause by an affirmative vote of Unit Owners whose 
@@ -220,7 +230,9 @@ Owner or the spouse of a Unit Owner, unless such member is a designee of the
 Sponsor or a Sponsor-designee, he shall be deemed to have resigned effective as 
 of the date such ownership interest ceased.
 
-Section 6. Vacancies. Vacancies in the. Board of Managers caused by any reason 
+### Section 6. Vacancies.
+
+Vacancies in the Board of Managers caused by any reason 
 other than the removal of a member thereof by a vote of the Unit Owners shall be 
 filled by vote of a majority of the cemaining members at a special meeting of 
 the Board of Managers held for that purpose promptly after the occurrence of any 
@@ -231,7 +243,9 @@ Unit Managers to serve the remaining term. Notwithstanding the foregoing,
 vacancies of members designated by the Sponsor or Sponsor-designee shall be 
 filled only by the Sponsor or Sponsor- designee.
 
-Section 7. Organization Meeting. The first meeting of the members of the Board 
+### Section 7. Organization Meeting.
+
+The first meeting of the members of the Board 
 of Managers following the annual meeting of the Unit Owners shall be held within 
 ten days there after, at such time and place as shall be fixed by a majority the 
 members of the Board of Managers elected at the meeting which they shall have 
@@ -239,14 +253,18 @@ been elected, and no notice shall be necessary to the newly elected members of
 the Board of Managers in order legally to constitute such meeting, providing a 
 majority of the whole Board of Managers shall be present thereat.
 
-Section 8. Regular Meetings. Regular meetings of the Board of Managers may be 
+### Section 8. Regular Meetings.
+
+Regular meetings of the Board of Managers may be 
 held at such time and place as shall be determined from time to time by a 
 majority of the members of the Board of Managers, but at least two such meetings 
 shall be held during each fiscal year. Notice of regular meetings of the Board 
 of Managers shall be given to each member of the Board of managers, by mail or 
 telegraph, at least five business days prior to the day named for such meeting. 
 
-Section 9. Special Meetings. Special meetings of the Board of Managers may be 
+### Section 9. Special Meetings.
+
+Special meetings of the Board of Managers may be 
 called:by the President on three business days' notice to each member ‘of the 
 Board of Managers, given by mail, telegraph or personal delivery to the Unit 
 owned by such member of the Board of Managers, which notice shall state the 
@@ -255,7 +273,9 @@ Managers shall be called by the President or Secretary in like manner and on
 like notice on the written request of at least three members of the Board of 
 Managers.
 
-Section 10. Waiver of Notice. Any member of the Board of Managers may at any 
+### Section 10. Waiver of Notice.
+
+Any member of the Board of Managers may at any 
 time waive notice of any meeting of the Board of Managers in writing and such 
 waiver shall be deemed equivalent to the giving of such notice. Attendance by a 
 member of the Board of Managers at any meeting of the Board shall constitute a 
@@ -263,7 +283,9 @@ waiver of notice by him of the time and place thereof. If all the members of the
 Board of Managers are present at any meeting of the Board, no notice shall be 
 required and any business may be transacted at such meeting.
 
-Section ll. Quorum of Board of Managers. At all meetings of the Board of 
+### Section ll. Quorum of Board of Managers.
+
+At all meetings of the Board of 
 Managers, a majority of the members thereof shall constitute a quorum for the 
 transaction of busi- ness, and the votes of a majority of the members of the 
 Board of Managers present at a meeting at which a quorum is present shall 
@@ -278,15 +300,21 @@ committee consent in writing to the adoption of a resolution authorizing such
 action, and the writing or writings are filed with the minutes of the 
 proceedings of the Board of the committee.
 
-Section.12.  .Pidelity Bonds. The Board of Managers shall obtain fidelity 
+### Section.12.  .Pidelity Bonds.
+
+The Board of Managers shall obtain fidelity 
 bonds-:in the amount of $50,000 or ‘more: for all officers and employees of the 
 Condominium handling or _ tesponsible for Condominium funds and for the managing 
 agent. The premiums on such bonds shall constitute a Common Expense.
 
-Section 13. Compensation. No member of the Board of Managers shall receive any 
+### Section 13. Compensation.
+
+No member of the Board of Managers shall receive any 
 compensation from the Condominium for acting as such.
 
-Section 14. Liability of the Board of Managers. The members of. the Board of 
+### Section 14. Liability of the Board of Managers.
+
+The members of. the Board of 
 Members shall not be liable to the Unit Owners for any mistake of judgment, 
 negligence, or otherwise, except for their own individual willful misconduct or 
 bad faith. The Unit Owners shall indemnify and hold harmless each of the members 
@@ -312,7 +340,9 @@ Owners), and that each Unit Owner's liability thereunder shall be limited to
 such proportion of the total liability thereunder as his interest in the Common 
 Elements bears to the interest of all Unit Owners in the Common Elements.
 
-Section 15. Executive Committee. The Board of Managers may, by. resolution duly 
+### Section 15. Executive Committee.
+
+The Board of Managers may, by. resolution duly 
 adopted, appoint an Executive Committee to consist of three or more members of 
 the Board of Managers, at least one of whom shall be a member designated by the 
 Sponsor or Sponsor-designee so long as the Sponsor or Sponsor-designee has the 
@@ -328,9 +358,11 @@ Regulations covering the details of the operation and use of the Property or (d)
 to exercise any of the powers set forth in subdivisions (g), (h), (i) and (o) 
 of Section 2 of Article II.
 
-Section 16. Other Committees. The Board of Managers may by resolution create 
+### Section 16. Other Committees
+
+ The Board of Managers may by resolution create 
 such other committees as it shall deem appropriate and such committees shall 
-have such powers and authority as the Board of Managers shall vest therein. ~“<e 
+have such powers and authority as the Board of Managers shall vest therein. ~e 
 members of any such committee, at least one of whom shal= e designated by the 
 Sponsor or a Sponsor-designee, 30 long as a Sponsor or Sponsor-designee has the 
 right to designate ar it of the Board, shall be appointed by the President of 
@@ -341,7 +373,7 @@ Committee may not do under subsections (a)-(d) of Section 15 of Article II.
 
 ## ARTICLE III -- UNIT OWNERS
 
-Section l. Annual Meetings.
+### Section l. Annual Meetings.
 
 (a) Within sixty days after the earlier of (i) the ciosing of title to Units 
 whose aggregate Common Interest exceeds fifty percent or (ii) two years from the 
@@ -369,11 +401,15 @@ members of the Board of Managers shall be elected by the Unit Owners and shall
 serve for the terms prescribed by these By-Laws. The Unit Owners may transact 
 such other business at such meetings as any properly come before them.
 
-Section 2. Place of Meetings. Meetings of the Unit Owners shall be held at the 
+### Section 2. Place of Meetings.
+
+Meetings of the Unit Owners shall be held at the 
 principal office of the Condominium or at such other suitable place convenient 
 to the Unit Owners as may be designated by the Board of Managers.
 
-Section 3. Special Meetings. It shall be the duty of the President to call a 
+### Section 3. Special Meetings.
+
+It shall be the duty of the President to call a 
 special meeting of the Unit Owners as directed by the Board of Managers or upon 
 a petition signed by a majority of the Unit Owners as defined in Section 9 of 
 this Article III having been presented to the Secretary. The notice of any 
@@ -386,7 +422,9 @@ of Unit Owners cannot be held because a quorum has not
 meeting and the purpose thereof. No business shall-be transacted
 at a special meeting except as stated in the notice.
 
-Section 4. Notice of Meetings. It shall be the duty of the Secretary to mail a 
+### Section 4. Notice of Meetings.
+
+It shall be the duty of the Secretary to mail a 
 notice of each annual or special meeting of the Unit Owners, at least ten but 
 not more than thirty days prior to such meeting, stating the purpose thereof as 
 vell as the time and place where it is to be held, to each Unit Owner of record, 
@@ -397,12 +435,16 @@ By-Laws, the notice of meeting shall be mailed at least ten days prior to such
 meeting. The mailing of a notice of meeting. in the manner provided in this 
 Section shall be considered service of notice,
 
-Section 5. Adjournment of Meetings. If an meeting of Unit Owners cannot be held 
+### Section 5. Adjournment of Meetings.
+
+If an meeting of Unit Owners cannot be held 
 because a quorum has not attended, a majority of the Unit Owners who are present 
 at such meeting, either in person or by proxy,may adjourn the meeting to a time 
 not less than forty-eight hours from the time the original meeting was called.
 
-Section 6. Order of Business. The order of business
+### Section 6. Order of Business.
+
+The order of business
 at all meetings of the Unit Owners shall be as follows:
 
 a. Roll call
@@ -425,7 +467,9 @@ i. Unfinished business
 
 j. New business
 
-Section 7. Title to Units. Title to Units may be taken in the name of an 
+### Section 7. Title to Units.
+
+Title to Units may be taken in the name of an 
 individual or in the names of two or more persons, as tenants in common or as 
 joint tenants or as tenants by the entirety or in the name of a corporation or 
 partnership, or in the name of a fiduciary or trust, estate, unincorporateg 
@@ -437,7 +481,9 @@ title as Set forth in this Section. The above shall not constitute consent or
 condonation of any activity nor permitted under existing certifi- cates of 
 occupancy, zoning requirements or other applicable law or regulation.
 
-Section 8. Voting. The Owner or Owners of each Unit, or some person designated 
+### Section 8. Voting.
+
+The Owner or Owners of each Unit, or some person designated 
 by such Owner or Owners to act as proxy on his or their behalf and who need not 
 be an Owner, shall be entitled to cast the votes appurtenant to such Unit at all 
 meetings of Unit Owners. The designation of any such proxy shall be made in 
@@ -459,22 +505,30 @@ shall be the voting member with respect to any Unit in a fiduciary capacity. Any
 Onit or Units owned by the Board of Managers or its designee shall not be 
 entitled to vote.
 
-Section 9. Majority of Unit Owners. As used in these By-Laws the term “majority 
+### Section 9. Majority of Unit Owners.
+
+As used in these By-Laws the term “majority 
 of Unit Owners" shall mean those Unit Owners having greater than 50% of the 
 total authorized votes of all Unit Owners present in person or by proxy and 
 voting at any meeting of the Unit Owners, determined in accordance with the 
 provisions of Section 8 of this Article III
 
-Section 10. Quorum. Except as otherwise provided in these By-Laws, the presence 
+### Section 10. Quorum.
+
+Except as otherwise provided in these By-Laws, the presence 
 in person or by proxy of a majority of Unit Owners shall constitute a quorum at 
 all meetings of the Unit Owners.
 
-Section ll. Majority Vote. The vote of a majority of Onit Owners at a meeting at 
+### Section ll. Majority Vote.
+
+The vote of a majority of Onit Owners at a meeting at 
 which a quorum shall be present shall be binding upon all Unit Owners for all 
 purposes except where, in the Declaration of these By-Laws or by law, ; a higher 
 percentage vote is required. _.
 
-Section 12. Action Without Meeting. Any action required or permitted to be taken 
+### Section 12. Action Without Meeting.
+
+Any action required or permitted to be taken 
 by the Unit Owners may be taken without a meeting if the number of Unit Owners 
 required by the Declaration, these By-Laws or applicable law consent in writing 
 to the adoption of a resolution authorizing such action and. the writing or 
@@ -482,25 +536,33 @@ writings are filed with the records of the Con- dominium.
 
 ## ARTICLE IV -- OFFICERS
 
-Section 1. Designation. The principal officers of the - Condominium shall be the 
+### Section 1. Designation.
+
+The principal officers of the - Condominium shall be the 
 President, the Vice President,the Secretary and the Treasurer, all of whom shall 
 be elected by the Board. of Managers. The Board of Managers may appoint an 
 assis- tant treasurer, an assistant secretary, and such other officers as in its 
 judgment may be necessary. The President and ~-Vice President, but no other 
 officers, need be members of the Board of Managers.
 
-Section 2. Election of Officers. The officers of the Condominium shall be 
+### Section 2. Election of Officers.
+
+The officers of the Condominium shall be 
 elected annually by the Board of Managers at the organization meeting of each 
 new Board of Managers and shall hold office at the pleasure of the Board of 
 Managers and until their successors are elected.
 
-Section 3. Removal of Officers. Upon the affirmative vote of a majority of the 
+### Section 3. Removal of Officers.
+
+Upon the affirmative vote of a majority of the 
 members of the Board of Managers, any officer may be removed, either with or 
 without cause, and his successor may be elected at any regular meeting of the 
 Board of Managers, or at any special meeting of the Board of Managers called for 
 such purpose.
 
-Section 4. President. The President shall be the chief executive officer of the 
+### Section 4. President.
+
+The President shall be the chief executive officer of the 
 Condominium. He shall preside at all meetings of the Unit Owners and of the 
 Board of Managers. de shall have all of the general powers and duties which are 
 incident to the office of president of a stock corporation organized under the 
@@ -508,20 +570,26 @@ Business Corporation Law of the State of New York including the power to appoint
 members of committees created by the Board of Managers from among the Unit 
 Owners from time to time.
 
-Section 5. Vice President. The Vice President shall take the place of the 
+### Section 5. Vice President.
+
+The Vice President shall take the place of the 
 President and perform his duties whenever the President shall be absent or 
 unable to act. I£ neither the President nor the Vice President is able to act, 
 the Board of Managers is to act in the place of the President, on an interim 
 basis. The Vice President shall also perform such other duties as shall from 
 time to-time be imposed upon him by.the Board of Managers or by the President.
 
-Section 6. Secretary. The Secretary shall keep the Minutes of all meetings of 
+### Section 6. Secretary.
+
+The Secretary shall keep the Minutes of all meetings of 
 the Unit Owners and of the Board of Managers; he shall have charge of such books 
 and papers as the Board of Managers may direct; and he shall in general perform 
 all the duties incident to the office of secretary of a stock corporation 
 organized under the Business Corporation Law of the State of New York.
 
-Section 7. Treasurer. The Treasurer shall have the responsibility for 
+### Section 7. Treasurer.
+
+The Treasurer shall have the responsibility for 
 Condominium funds and securities and shall be responsible for keeping full and 
 accurate financial records and books of account showing all receipts and 
 disbursements and for the preparation of all required financial data. He shall 
@@ -532,21 +600,29 @@ general, perform ali the duties incident to the office of treasurer of a stock
 corporation organized under the Business Corporation Law of the State of New 
 York.
 
-Section 8. Agreements, Contracts, Deeds, Checks, etc. All agreements, contracts, 
+### Section 8. Agreements, Contracts, Deeds, Checks, etc.
+
+All agreements, contracts, 
 deeds, leases, checks and other instruments of the Condominium shall be executed 
 by any two (2) officers of the Condominium or by such other person or persons as 
 may be designated by the Board of Managers.
 
-Section 9. Compensation of Officers. No officer shall receive any compensation 
+### Section 9. Compensation of Officers.
+
+No officer shall receive any compensation 
 from the Condominium for acting as such.
 
-Section 10. Liability of Officers. The officers of the Condominium shall have 
+### Section 10. Liability of Officers.
+
+The officers of the Condominium shall have 
 the same rights and liabilities as the members of the Board of Managers under 
 Article II Section 14 of these By-Laws.
 
 ## ARTICLE V -- NOTICES
 
-Section 1. Definition. Whenever under the provisions of the Declaration or of 
+### Section 1. Definition.
+
+Whenever under the provisions of the Declaration or of 
 these By-Laws, notice is required to be given to the Board of Managers, any 
 manager, Unit Owner or mortgagee, it shall not be construed to mean personal 
 notice; but such notice maybe given in writing, by mail, by depositing the same 
@@ -555,14 +631,18 @@ Board of Managers, such manager or Unit Owner or mortgagee at such address as
 appears on the books of the Condominium. Members of the Board of Managers may be 
 given notice in writing personally delivered to them.
 
-Section 2. Service of Notice Waiver. whenever any notice is required to be given 
+### Section 2. Service of Notice Waiver.
+
+whenever any notice is required to be given 
 under the provisions of the Declaration or of these By-Laws, a waiver thereof,in 
 writing, signed by the person or persons entitled to such notice, whether before 
 or after the time stated therein, shall be deemed the equivalent thereof.
 
 ## ARTICLE VI -- OPERATION OF THE PROPERTY
 
-Section 1. Determination of Common Expenses and Pixing of Common Charges. The 
+### Section 1. Determination of Common Expenses and Pixing of Common Charges.
+
+The 
 Board of Managers shall from time to time, at least annually, prepare a budget 
 for the. Condominium, determine the amount of the Common Charges payable by the 
 Unit Owners to meet the Common Expenses of the Condominium and allocate and 
@@ -592,7 +672,9 @@ The Sponsor or Sponsor-designee shall be responsible for the Common Charges
 assessed against a Unit owned by it from the date of the First Unit Closing 
 until such Unit is sold toa bona fide purchaser.
 
-Section 2. Insurance. The Board of Managers shall he required to obtain and 
+### Section 2. Insurance.
+
+The Board of Managers shall he required to obtain and 
 maintain, to the extent obtainable, the following insurance: (1) fire insurance 
 with extended coverage, vandalism and malicious mischief endorsements, insuring 
 the Building containing the Units (including all of the Units and the fixtures 
@@ -657,7 +739,9 @@ of any such additional insurance carried by any. Unit Owner. Such policies shall
 be so endorsed as to state -:hat they will in no way conflict with any insurance 
 carried by tre Board of Managers.
 
-Section 3. Repair or Reconstruction After Pire or Other Casualty. In the event 
+### Section 3. Repair or Reconstruction After Pire or Other Casualty.
+
+In the event 
 of damage to or destruction of the Building containing the Units as a result of 
 fire or other casualty, unless seventy-five percent or more of the Building 
 containing the Units is destroyed or substantially damaged and Unit Owners whose 
@@ -701,7 +785,9 @@ the required completion bond, if necessary. Wherever the words, “promptly
 resolve” are used it shall also mean not more than Sixty days from the date of 
 receipt of said insurance funds.
 
-Section 4. Payment of Common Charges. All Unit Owners shall be obligated to pay 
+### Section 4. Payment of Common Charges.
+
+All Unit Owners shall be obligated to pay 
 the Common Charges assessed by the Board of Managers pursuant to the provisions 
 of Section 1 of this Article VI at such time or times as the Board of Managers 
 shall determine.
@@ -723,7 +809,9 @@ purchaser of a Unit at a foreclosure sale of such Unit shall not be liable for
 and such Unit shall not be subject to a lien for the Payment of Common Charges 
 assessed prior to the foreclosure sale.
 
-Section 5. Collection of Common Charges and Assess- ments. The Board of Managers 
+### Section 5. Collection of Common Charges and Assess- ments.
+
+The Board of Managers 
 shall assess Common Charges against the Unit Owners from time to time at least 
 annually and shall take prompt action to collect any Common Charge due from any 
 Unit Owner which remains unpaid for more than 30 days from the due date for 
@@ -732,7 +820,9 @@ any assessment due from any Unit Owner which remains unpaid for more than 30
 days from the due date thereof. Common Charges shall be paid by the fifth day of 
 the month in which they are due or they shall be deemed to be late.
 
-Section 6. Default in Payment of Common Charges or Assessments. In the event of 
+### Section 6. Default in Payment of Common Charges or Assessments.
+
+In the event of 
 default by any Unit Owner in paying to the Board of Managers the Common Charges 
 or any assessment as determined by the Board of Managers, such Unit Owner shall 
 be obligated to pay interest at the highest. legal rate on such Common Charges 
@@ -748,7 +838,9 @@ the State of New York, in the manner provided in Section 339-aa thereof. A Unit
 Owner defaulting in Payment of Common Charges or assessments shall not be 
 permitted to vote at any regular or special meeting of Unit Owners.
 
-Section 7. Foreclosure of Liens for Unpaid Common Charges. In any action brought 
+### Section 7. Foreclosure of Liens for Unpaid Common Charges.
+
+In any action brought 
 by the Board of Managers to foreclose a lien on a Unit because of unpaid Common 
 Charges, the Unit Owner shall be required to pay a reasonable rental for the use 
 of his Unit and the plaintiff in such foreclosure action shall be entitled to 
@@ -759,12 +851,16 @@ votes appurtenant to), convey or otherwise deal with the same. A suit to recover
 a money judgment for unpaid Common Charges shall be maintainable without 
 foreclosing a waiving the lien securing the same. ,
 
-Section 8. Statement of Common Charges and Assessments. The Board of Managers, 
+### Section 8. Statement of Common Charges and Assessments.
+
+The Board of Managers, 
 Managing Agent or Manager shall promptly provide any Unit Owner so requesting 
 the same in writing, with a written statement of all unpaid Common Charges due 
 from such Unit Owner.
 
-Section 9. Abatement and Enjoinment of Violations by Unit Owners. The violation 
+### Section 9. Abatement and Enjoinment of Violations by Unit Owners.
+
+The violation 
 of any rule or regulation adopted by the Board of Managers, or the breach of any 
 By-Laws contained herein, or the breach of any provision of the Declaration, 
 shall give the Board of Managers the right, in addition to any other right set. 
@@ -782,7 +878,7 @@ proceedings, either at law or inequity, the continuance of any such breach; and
 (c) in any event charges the Unit Owner with the cost of reasonable legal and 
 other fees and costs incurred in enjoining, abating or remedying such violation.
 
-Section 10. Maintenance and Repairs.
+### Section 10. Maintenance and Repairs.
 
 a. All maintenance of and repairs to any Onit,ordinary or extraordinary, and to 
 the doors (except painting exterior Side of Unit entrance door), windows (except 
@@ -808,7 +904,9 @@ access thereto at his sole cost and expense, if involving non-structural
 maintenance, repairs or replacements or as a result of the Unit Owner's 
 negligence, misuse or neglect.
 
-Section 11. Restrictions on Use of Units. In order to provide for congenial 
+### Section 11. Restrictions on Use of Units.
+
+In order to provide for congenial 
 occupancy of the Property and for the protection of the values of the Units, the 
 use of the Property shall be restricted to and shall be in accordance with the 
 following provisions:
@@ -852,7 +950,9 @@ e. No portion of a Unit or other Limited Common Elements appurtenant thereto
 (other than the entire Unit including the Limited Common Elements appurtenant 
 thereto) may be rented.
 
-Section 12. Additions, Alterations or Improvements by Board of Managers. Subject 
+### Section 12. Additions, Alterations or Improvements by Board of Managers.
+
+Subject 
 to the provisions of Section 2 of ‘Article II of these By-Laws, whenever in the 
 judgment of the Board of Managers the Common Elements shall require additions, 
 alterations or improvements. (but not Maintenance) costing in excess of 
@@ -864,7 +964,9 @@ ditions,alterations or improvements costing $5,000.00 or less may be made by the
 Board of Managers without approval of the unit Owners and the cost thereof shall 
 constitute part of the Common Expenses.
 
-Section 13. Additions, Alterations or Improvements by Onit Owners. Except as 
+### Section 13. Additions, Alterations or Improvements by Onit Owners.
+
+Except as 
 provided below, no Unit Owner shall make any structural addition, alteration or 
 improvement in or to his Unit, or which affects the exterior of the Building or 
 the value of other Units, without prior written consent thereto of the Board of 
@@ -916,7 +1018,9 @@ Non-structural alterations and improvements to Residen- tial Units that do not
 affect the exterior of the Building or the value of other Units may be made 
 without the prior approval of the Board of Managers..
 
-Section 14. Use of Common Elements and Facilities. A Unit Owner shall not place 
+### Section 14. Use of Common Elements and Facilities.
+
+A Unit Owner shall not place 
 or cause to be placed in the lobby, public halls, stairways or other common 
 areas or common facili- ties, any furniture, packages or objects of any kind. 
 The public halls and stairways shall be used for no purpose other than for 
@@ -924,7 +1028,9 @@ normal transit through them. The Sponsor and any Sponsor- designee shall have
 the right to use the Common Elements, without charge, for the purpose set forth 
 in Section II of this Article VI.
 
-Section 15. Right of Access. A Unit Owner shall grant a right of access to his 
+### Section 15. Right of Access.
+
+A Unit Owner shall grant a right of access to his 
 Unit, to the manager and/or the managing agent and/or any other person 
 authorized by the Board of Man- agers, the manager or the managing agent, for 
 the purpose of making inspections or for the purpose of correcting any condition 
@@ -939,7 +1045,9 @@ of the exercise of the right of access provided in this Section 15, any costs
 for repairs shall be borne in accordance with the provisions o¢ Section 10 of 
 this Article VI.
 
-Section 16. Rules of Conduct. Rules and Regulations ‘concerning the use of the 
+### Section 16. Rules of Conduct.
+
+Rules and Regulations ‘concerning the use of the 
 Units and the Common Elements may be promulgated and amended by the Board of 
 Managers. _A majority vote of Unit Owners at a meeting may over rule the Board. 
 ‘Copies o£ such rules and regulations shall be furnished by the Board of 
@@ -950,7 +1058,9 @@ its designee remains the Owner of one or more Units, the Rules and Regulations
 of the Condominium may not be amended or modified in anyway so as to adversely 
 affect Sponsor or its designee without Sponsor's prior written consent.
 
-Section 17. Water Charges and Sewer Rents. Water shall be supplied to all of the 
+### Section 17. Water Charges and Sewer Rents.
+
+Water shall be supplied to all of the 
 Units and the Common Elements through one or more building meters or pursuant to 
 a frontage charge and, the Board of Managers shall pay, as a Common Expense, all 
 charges for water consumed on the Property and in the Units, together with all 
@@ -962,7 +1072,9 @@ insurance company, a letter agreeing to pay all charges for water and sewer
 rents affecting the Property as of the date of closing of title to such Unit 
 promptly after such charges shall have been billed.
 
-Section 18. Electricity. Electricity shall be supplied by the public utility 
+### Section 18. Electricity.
+
+Electricity shall be supplied by the public utility 
 company serving the area directly to such Unit through separate meters and each 
 Unit Owner shall be required to pay the bills for electricity consumed or used 
 in his Unit. The electricity serving the Common Elements as well as cooking gas 
@@ -972,25 +1084,34 @@ Expense.
 
 ## ARTICLE VII -- MORTGAGES
 
-Section 1. Notice to Board of Managers. A Unit Owner who mortgages his Unit 
+### Section 1. Notice to Board of Managers.
+
+A Unit Owner who mortgages his Unit 
 shall notify the Board of Managers of the name and address of his mortgagee and 
 shall file a conformed copy of the note and mortgage with the Board of Managers; 
 the Board of Managers shall maintain such information in a book entitled 
 "Mortgages of Units.” The Board of Managers may request each Mortgagee of a Unit 
-that it be afforded reasonable notification of any mortgage default. -- Section 
-2. Notice of Unpaid Common Charges. The S8o0ard of Managers when so requested in 
+that it be afforded reasonable notification of any mortgage default.
+
+### Section  2. Notice of Unpaid Common Charges.
+
+The S8o0ard of Managers when so requested in 
 writing by a mortgagee of a Unit shall promptly notify any mortgagee of a Unit 
 of such Unit Owner's default, including non-payment of Common Charges, in the 
 Obligations of such Unit Owner under the Declaration,- By~Laws, Rules and 
 Regulations, as the same are amended from time to time, or in any order of the 
 Board of Managers issued with trespect thereto.
 
-Section 3. Notice of Default. The Board of Managers, when giving notice to a 
+### Section 3. Notice of Default.
+
+The Board of Managers, when giving notice to a 
 Unit Owner of a default in. paying Common Charges or other default, shall send a 
 copy of such notice to each holder of a mortgage covering such Unit whose name 
 and address has heretofore been furnished to the Board of Managers.
 
-Section 4. Examination of Books. Each Unit Owner and each mortgagee of a Unit 
+### Section 4. Examination of Books.
+
+Each Unit Owner and each mortgagee of a Unit 
 shall be permitted to examine the books
 of account of the Condominium at reasonable times, on reasonable
 notice to the manager,managing agent or Board of Managers on.
@@ -998,7 +1119,9 @@ business days.
 
 ## ARTICLE VIII -- SALES, LEASES AND MORTGAGES OF UNITS
 
-Section 1. Sales and Leases. No Unit Owner other than the Sponsor or 
+### Section 1. Sales and Leases.
+
+No Unit Owner other than the Sponsor or 
 Sponsor-designee may sell or lease his Unit or any interest therein except by 
 complying with the following pro- visions:
 
@@ -1081,12 +1204,16 @@ with all of the terms and provisions of this Section 1 of this Article VIII.
 Any purported sale or lease of a Unit in violation of this section shall be 
 voidable at the election of the Board of Managers.
 
-Section 2. Consent of Unit Owners to Purchase or Lease of Units by Board of 
-Managers. The Board of Managers shall not exercise any option herein above set 
+### Section 2. Consent of Unit Owners to Purchase or Lease of Units by Board of 
+Managers.
+
+The Board of Managers shall not exercise any option herein above set 
 forth to purchase or lease any Unit without the prior approval of a majority of 
 the Unit Owners.
 
-Section 3. No Severance of Ownership. No Unit Owner shall execute any deed, 
+### Section 3. No Severance of Ownership.
+
+No Unit Owner shall execute any deed, 
 mortgage, or other instrument conveying or mortgaging title to his Unit without 
 including therein the Appurtenant Interests, it being the intention here of to 
 prevent any severance of such combined ownership. Any such deed, mortgage, or 
@@ -1099,15 +1226,19 @@ other disposition of the Unit to which such interest or interests are
 appurtenant, or as part of a sale, transfer or other disposition of such part of 
 the Appurtenant interests of all Units.
 
-Section 4. Release by Board of Managers. of Right of
-Pirst Refusal. The right of first refusal contained in Section l
+### Section 4. Release by Board of Managers of Right of
+Pirst Refusal.
+
+The right of first refusal contained in Section l
 of this Article VIII may be released or waived by the Board of
 Managers in which event the Unit, together with the Appurtenant
 Interests, May be sold, conveyed, or leased, free and Clear of
 the provisions of such section.
 
-Section 5. Certificate of Termination of Right of
-First Refusal. A certificate, executed and acknowledged by the
+### Section 5. Certificate of Termination of Right of
+First Refusal.
+
+A certificate, executed and acknowledged by the
 Secretary of the Condominium, stating that the -provisions of
 Section 1 of this Article VIII have been met by a Unit Owner, or
 have been duly waived by the Board of Managers and the rights of
@@ -1119,7 +1250,9 @@ provisions of Section 1 of this Article VIII or in respect to
 whom the provisions of such section have been waived, upon
 request.
 
-Section 6. Pinancing of Purchase of Units by Board of Managers. Acquisition or 
+### Section 6. Pinancing of Purchase of Units by Board of Managers.
+
+Acquisition or 
 lease of Units by the Board of Managers, or its designee, on behalf of all Unit 
 Owners, may be made from the working capital and Common Charges in the 
 possession of the Board of Managers, or, if such funds are insufficient, the 
@@ -1135,7 +1268,9 @@ Notwithstanding the above, no assess- ment may be levied under this Section 6
 against any mortgagee who has acquired title to a Unit, whether by foreclosure 
 or deed in lieu thereof.
 
-Section 7. Exceptions. The provisions of Section 1 of this Article VIII shall 
+### Section 7. Exceptions.
+
+The provisions of Section 1 of this Article VIII shall 
 not apply with respect to any sale or conveyance or lease by a Unit Owner of his 
 Unit, together with the Appurtenant Interests, to his spouse or to any of his 
 children or to his parent or parents or to his brothers or sisters, or any one 
@@ -1145,25 +1280,33 @@ a mortgagee herein authorized who shall acquire title to such Unit by
 foreclosure or by deed in lieu of foreclosure. _ However, the provisions of this 
 section shall apply with respect to any purchaser of a Unit from a mortgagee.
 
-Section 8. Gifts and Devises, etc. Any Unit Owner shall be free to convey or 
+### Section 8. Gifts and Devises, etc.
+
+Any Unit Owner shall be free to convey or 
 transfer his Unit by gift or to devise his Unit by will, or to pass the same by 
 intestacy, without restriction.
 
-Section 9. Waiver of Right of Partition with Respect to Such Units as are 
+### Section 9. Waiver of Right of Partition with Respect to Such Units as are 
 Acquired by the Board of Managers or its Designee, on Behalf of All Unit Owners 
-as Tenants in Common. In the event that a Unit shall be acquired by the Board of 
+as Tenants in Common.
+
+In the event that a Unit shall be acquired by the Board of 
 Managers, or its designee,on behalf of all Unit Owners as tenants in common,all 
 such Unit Owners shall-be deemed to have waived all rights of partition with 
 respect to such Unit.
 
-Section 10. Payment of Common Charges and Assessments. No Unit Owner shall be 
+### Section 10. Payment of Common Charges and Assessments.
+
+No Unit Owner shall be 
 permitted to convey, mortgage, pledge, hypothecate, sell or lease his Unit 
 unless and until he shall have paid in full to the Board of Managers all unpaid 
 Common Charges and assessments theretofore assessed by the Board of Managers 
 against his Unit and until he shall have satisfied all unpaid liens against such 
 Unit, except permitted mortgages.
 
-Section ll. Mortgage of Units. No Unit Owner shall mortgage his Unit, except by 
+### Section ll. Mortgage of Units.
+
+No Unit Owner shall mortgage his Unit, except by 
 a first and/or second mortgage made to a bank, trust company, insurance company, 
 federal savings and loan association, pension fund or other institutional lender 
 or a purchase money mortgage made to the Sponsor, Sponsor-designee, or to the 
@@ -1182,7 +1325,9 @@ assessments and discharge any liens therefor.
 
 ## ARTICLE IX -- CONDEMNATION
 
-Section 1. - Condemnation. In the event of a taking in condemnation or by 
+### Section 1. - Condemnation.
+
+In the event of a taking in condemnation or by 
 eminent domain of part or all of the Common Elements, the award made for such 
 taking shall be payable to the Board of Managers, if such award amounts to 
 $25,000.00 or less, and to the Insurance Trustee if such award amounts to more 
@@ -1202,7 +1347,9 @@ more than Sixty days from the date of such taking.
 
 ## ARTICLE X -- RECORDS
 
-Section l. Records and Audits. The Board of Managers or the managing agent shall 
+### Section l. Records and Audits.
+
+The Board of Managers or the managing agent shall 
 keep detailed records of the actions managing agent, minutes of the meetings of 
 the Board of Managers, minutes of the meetings of the Onit Owners, and financial 
 records and books of account of the condominium, including a chronolo 
@@ -1217,25 +1364,35 @@ after the end of each fiscal year. .
 
 ## ARTICLE XI -- MISCELLANEOUS
 
-Section 1. Invalidity. The invalidity of any part of these By-Laws shall not 
+### Section 1. Invalidity.
+
+The invalidity of any part of these By-Laws shall not 
 impair or affect in any manner the validity, enforceability or effect of the 
 balance of these By- Laws. .
 
-Section 2. Captions. The captions herein are inserted only as a matter of 
+### Section 2. Captions.
+
+The captions herein are inserted only as a matter of 
 convenience and for reference, and in no way define, limit or describe the scope 
 of these By~Laws, or the intent of any provision thereof.
 
-Section 3. Gender. The use of the masculine gender in
+### Section 3. Gender.
+
+The use of the masculine gender in
 these By-Laws shall be deemed to include the feminine gender and
 the use of the singular shall. be deemed to include the Plural,
 whenever the context so requires.
 
-Section 4. Waiver. No restriction, condition, obligation, or provision contained 
+### Section 4. Waiver.
+
+No restriction, condition, obligation, or provision contained 
 in these By-Laws, shall be deemed to have been abrogated or waived by reason of 
 any failure to enforce the same, irrespective of the number of violations or 
 breaches thereof which may occur.
 
-Section 5. Insurance Trustee. The Insurance Trustee shall be a bank, trust 
+### Section 5. Insurance Trustee.
+
+The Insurance Trustee shall be a bank, trust 
 company or savings and loan association in the State of New York, designated by 
 the Board of Managers (with the approval of each of the holders of five or more 
 Unit. first mortgagees). In the event that the Insurance Trustee shall tesign, 
@@ -1247,13 +1404,17 @@ Insurance Trustee and such fees and disbursements shall constitute a Common
 Expense of the Condominium. Such Insurance Trustee shall be selected within 
 sixty days subsequent to the First Unit Closing.
 
-Section 6. Definition of "Mortgagee". As used in these By-Laws, the term 
+### Section 6. Definition of "Mortgagee".
+
+As used in these By-Laws, the term 
 “mortgagee” or “holder of a first mortgage” shall include the holder of any 
 construction loan mortgage which shall be a lien on a unit.
 
 ## ARTICLE XII -- AMENDMENTS TO THE BY-LAWS
 
-Section 1. Amendment to By-Laws. These By-Laws may be modified or amended by the 
+### Section 1. Amendment to By-Laws.
+
+These By-Laws may be modified or amended by the 
 vote of 66 2/3% in number and in Common Interest of all Unit Owners at a meeting 
 of Unit Owners duly held for such purpose. However, for as long as Sponsor or 
 its designee remains the Owner of one or more Units, these By- Laws, including 
@@ -1263,7 +1424,9 @@ designee, in Sponsor's sole discretion, without Sponsor's prior written consent.
 
 ## ARTICLE XIII -- CONFLICTS
 
-Section 1. Conflicts. These By-Laws are set forth to comply with the 
+### Section 1. Conflicts.
+
+These By-Laws are set forth to comply with the 
 requirements of Article 9-B of the Real Property Law of the State of New York. 
 In case any of these By-Laws conflict with the provisions of said statute or of 
 the Declara- tion, the provisions of said statute or of the Declaration, as the 
