@@ -511,5 +511,262 @@ Owners from time to time.
 Section 5. Vice President. The Vice President shall take the place of the 
 President and perform his duties whenever the President shall be absent or 
 unable to act. I£ neither the President nor the Vice President is able to act, 
-the Board of Managers is to act in the place of the President, on an interim
+the Board of Managers is to act in the place of the President, on an interim 
+basis. The Vice President shall also perform such other duties as shall from 
+time to-time be imposed upon him by.the Board of Managers or by the President.
+
+Section 6. Secretary. The Secretary shall keep the Minutes of all meetings of 
+the Unit Owners and of the Board of Managers; he shall have charge of such books 
+and papers as the Board of Managers may direct; and he shall in general perform 
+all the duties incident to the office of secretary of a stock corporation 
+organized under the Business Corporation Law of the State of New York.
+
+Section 7. Treasurer. The Treasurer shall have the responsibility for 
+Condominium funds and securities and shall be responsible for keeping full and 
+accurate financial records and books of account showing all receipts and 
+disbursements and for the preparation of all required financial data. He shall 
+be responsible forth deposit of all moneys and other valuable effects in the. 
+name of the Board of Managers, or the managing agent, in such depositories as 
+may from time to time be desig- nated by the Board of Managers, and he shall,in 
+general, perform ali the duties incident to the office of treasurer of a stock 
+corporation organized under the Business Corporation Law of the State of New 
+York.
+
+Section 8. Agreements, Contracts, Deeds, Checks, etc. All agreements, contracts, 
+deeds, leases, checks and other instruments of the Condominium shall be executed 
+by any two (2) officers of the Condominium or by such other person or persons as 
+may be designated by the Board of Managers.
+
+Section 9. Compensation of Officers. No officer shall receive any compensation 
+from the Condominium for acting as such.
+
+Section 10. Liability of Officers. The officers of the Condominium shall have 
+the same rights and liabilities as the members of the Board of Managers under 
+Article II Section 14 of these By-Laws.
+
+ARTICLE V -- NOTICES
+
+Section 1. Definition. Whenever under the provisions of the Declaration or of 
+these By-Laws, notice is required to be given to the Board of Managers, any 
+manager, Unit Owner or mortgagee, it shall not be construed to mean personal 
+notice; but such notice maybe given in writing, by mail, by depositing the same 
+in a post office or letter box, in a post paid sealed wrapper, addressed to the 
+Board of Managers, such manager or Unit Owner or mortgagee at such address as 
+appears on the books of the Condominium. Members of the Board of Managers may be 
+given notice in writing personally delivered to them.
+
+Section 2. Service of Notice Waiver. whenever any notice is required to be given 
+under the provisions of the Declaration or of these By-Laws, a waiver thereof,in 
+writing, signed by the person or persons entitled to such notice, whether before 
+or after the time stated therein, shall be deemed the equivalent thereof.
+
+ARTICLE VI -- OPERATION OF THE PROPERTY
+
+Section 1. Determination of Common Expenses and Pixing of Common Charges. The 
+Board of Managers shall from time to time, at least annually, prepare a budget 
+for the. Condominium, determine the amount of the Common Charges payable by the 
+Unit Owners to meet the Common Expenses of the Condominium and allocate and 
+assess such Common Charges among the Unit Owners according to their respective 
+Common Interests. The Common Expenses shall include, among other things, the 
+cost of all insurance premiums on all policies of insurance required to be or 
+which have been obtained by the Board of Managers pursuant to the provisions of 
+Section 2 of this Article VI and the fees and disbursements of the Insurance 
+Trustee. The Common Expenses shall also include such amounts as the Board of 
+Managers may deem proper for the operation and maintenance of the Property, 
+including,without limitation, an amount for working capital of the Condominium 
+for a general operating reserve, and for a reserve fund for replacements, to 
+make up any deficit in the Common Expenses for any prior year. The Common 
+Expenses may also include such amounts as may be required for the purchase or 
+lease by the Board of Managers or its designee, corporate or otherwise, on 
+behalf of all Unit Owners, of any Unit whose owner has elected to sell or lease 
+such Unit or of any Unit which is to be sold at a foreclosure or other judicial 
+sale, together with such amounts as Unit(s). The Board of Managers shall also, 
+where necessary, impose an assessment or additional Common Charge in order to 
+meet any unanticipated Common Expense. The Board of Managers shall advise all 
+Unit Owners, promptly,in writing, of the amount of Common Charges payable by 
+each of them, respectively, as deter- mined by the Board of Managers, as 
+aforesaid, and shall furnish copies of each budget on which such charges are 
+based,to all Unit Owners and to their mortgagees, if so required.
+
+The Sponsor or Sponsor-designee shall be responsible for the Common Charges 
+assessed against a Unit owned by it from the date of the First Unit Closing 
+until such Unit is sold toa bona fide purchaser.
+
+Section 2. Insurance. The Board of Managers shall he required to obtain and 
+maintain, to the extent obtainable, the following insurance: (1) fire insurance 
+with extended coverage, vandalism and malicious mischief endorsements, insuring 
+the Building containing the Units (including all of the Units and the fixtures 
+initially installed therein by the Sponsor or by prior construction and any 
+other property usual to the servicing and general occupancy, but not including 
+furniture, furnishings, or other personal property supplied or installed by Unit 
+Owners), together with all service machinery and equipment contained therein and 
+covering the interests of the Condominium, the Board of Managers and all Unit 
+Owners and their mortgagees as their interests may appear, in an amount to be 
+determined by the Board of Managers but in no event to be less tHKan eighty 
+percent of the full replacement cost of the Building, including footings and 
+foundations, as approved by a fire insurance company or a qualified insurance 
+broker; each of said policies shall contain a Condominium Property Endorsement 
+and a New York standard mort- gagee clause in favor of each mortgagee of a Unit 
+which shall provide that the loss, if any, thereunder shall be payable to such 
+mortgagee as its interest may appear, subject however, to ‘the loss payment 
+provisions in favor of the Board of Managers and the Insurance Trustee, as 
+herein provided; (2) workmen's compen- sation insurance, if the Condominium has 
+employees; (3) a fidelity bond or bonds in sufficient amounts, to fully protect 
+the interest of the Condominium, shall be carried on each member of the Board of 
+Managers, officers of the condominium, managing agent and managers, including 
+any person or persons handling or responsible for funds of the Condominium; (4) 
+disability benefits insurance.if the Condominium has employees; and (5) such 
+other insurance as the Board of Managers may determine. All policies of physical 
+damage insurance shall provide that adjustment of loss shall be made by the 
+Board of Managers (with the approval of the Insurance Trustee, if more than 
+$25,000.00), and that the total proceeds thereof, if $25,000.00 or less, shall 
+be payable to the Board of Managers and if. more than $25,000.00 shail be 
+payable to the Insurance Trustee.
+
+All policies of physical damage insurance shall contain
+waivers of subrogation and of any reduction of pro-rata liability
+of the insurer as a result of any insurance carried by Unit
+Owners or of invalidity arising from any acts of the insured or
+any Unit Owners, and the individual Unit Owners as well as the
+Condominium shall be primary insured to the extent as their
+interests shall also appear. Such policies may not be cancelled
+or substantially modified without at least ten days prior written
+notice to all of the insured, including all mortgagees of Units.
+Duplicate originals of all policies of physical damage insurance
+and of all renewals thereof, together with proof of payment of
+premiums, shall be delivered to all mortgagees of Units at least
+ten days prior to expiration of the then current policies if so
+required in writing by them. 
+
+The Board of Managers shall also be required to obtain
+and maintain, to the extent obtainable, public liability in-
+surance in such limits as the Board of Managers may from time to
+time determine, covering each member of the Board of Managers,
+the managing agent, the manager and each Unit Owner. Such public
+liability coverage shall also cover cross liability claims of one
+insured against another. until the first meeting of the Board of
+Managers elected by the Unit Owners the-public liability in-
+surance will be in a limit of at least $1,000,000.00 covering all
+claims for bodily injury with respect to any one occurrence.
+
+Unit Owners shall not be prohibited from carrying other insurance for their own 
+benefit, provided that all such policies shall contain waivers of subrogation 
+and further provided that the liability of the carriers issuing insurance 
+obtained by the Board of Managers shall not be affected or diminished by reason 
+of any such additional insurance carried by any. Unit Owner. Such policies shall 
+be so endorsed as to state -:hat they will in no way conflict with any insurance 
+carried by tre Board of Managers.
+
+Section 3. Repair or Reconstruction After Pire or Other Casualty. In the event 
+of damage to or destruction of the Building containing the Units as a result of 
+fire or other casualty, unless seventy-five percent or more of the Building 
+containing the Units is destroyed or substantially damaged and Unit Owners whose 
+percentage of Common [Interest totals seventy- five percent in the aggregate of 
+the total Common Interest do not duly and promptly resolve to proceed with 
+repair or restoration, the Board of Managers shall arrange for the prompt repair 
+and restoration of the Building containing the Units(including any damaged 
+Units, and any kitchen and bathroom fixtures and floor coverings initially 
+installed therein by the Sponsor, but not including any wall,ceiling or floor 
+decorations or coverings or other furniture, furnishings, fixture. or equipment 
+installed in the Units by the Unit Owners), and t: Board of Managers or the 
+Insurance Trustee, as the case. ma >e, shall disburse the proceeds of all 
+insurance policies in appropriate progress payments for distribution to the 
+contractors engaged in such repairs and restoration. Any cost of such repair and 
+restoration in excess of the insurance proceeds shall constitute a Common 
+Expense and the Board of Managers may assess all the Unit Owners for such 
+deficit as part of the Common Charges.
+
+If seventy-five percent or more of the Building containing the Units is 
+destroyed or substantially damaged and Unit Owners whose percentage of Common 
+Interest totals seventy- five percent in the aggregate of the proceed with 
+repair or restoration, the Property shall be subject to an action for partition 
+at the suit of any Unit Owner or lien or,as if owned in common, in which event 
+the net proceeds of sale, together with the net proceeds of insurance pe sies 
+(or if there shall have been a repair or restoration pur: at to the first 
+paragraph of this Section 3, and the amount of insurance proceeds shall have 
+exceeded the cost of such repair or restoration,then the excess of such 
+insurance proceeds) shall be divided by the Board of Managers or the Insurance 
+Trustee, as the case may be, among all the Unit Owners in proportion to their 
+respective Common [nter- est,. after first payment out of the share of each Unit 
+Owner the amount of any unpaid liens on his Unit, in the order of the priority 
+of such liens.
+
+Whenever in this Section the words “promptly repair" are used it shall mean 
+repairs are to begin not more than sixty days for Managers and the Unit Owner or 
+Unit Owners that it shall hold proceeds of insurance funds sufficient to pay the 
+estimated costs of such work; or not more than minety days after Insurance 
+Trustee notified said Board of Managers and Unit Owner or Owners that such funds 
+are insufficient to pay said estimated costs ang advising them of the amount of 
+the required completion bond, if necessary. Wherever the words, “promptly 
+resolve” are used it shall also mean not more than Sixty days from the date of 
+receipt of said insurance funds.
+
+Section 4. Payment of Common Charges. All Unit Owners shall be obligated to pay 
+the Common Charges assessed by the Board of Managers pursuant to the provisions 
+of Section 1 of this Article VI at such time or times as the Board of Managers 
+shall determine.
+
+No Unit Owner shall be liable for the Payment of any part of the Common Charges 
+assessed against his Unit subsequent to a sale, transfer or other. conveyance by 
+him (made in accor- dance with the provisions of Section 1 of Article VIII of 
+these By-Laws) of such Unit,together with the Appurtenant Interest, as defined 
+in Section 1 of Article VIII here of. In addition, any Unit Owner may, subject 
+to the terms and conditions specified in these By-Laws, provided that his Unit 
+is free and Clear of liens and encumbrances, other than permissible mortgages 
+and the statutory lien for unpaid Common Charges, convey his Unit, together with 
+the “Appurtenant Interests" to the Board of Managers, or its designee, corporate 
+or otherwise, on behalf of all other Unit Owners, and in such event by exempt 
+from Common Charges thereafter assessed. A purchaser of a Unit shall be liable 
+for the payment of Common Charges. assessed and unpaid against such Unit prior 
+to the acquisition by him of such Unit, except that a mortgagee or other 
+purchaser of a Unit at a foreclosure sale of such Unit shall not be liable for 
+and such Unit shall not be subject to a lien for the Payment of Common Charges 
+assessed prior to the foreclosure sale.
+
+Section 5. Collection of Common Charges and Assess- ments. The Board of Managers 
+shall assess Common Charges against the Unit Owners from time to time at least 
+annually and shall take prompt action to collect any Common Charge due from any 
+Unit Owner which remains unpaid for more than 30 days from the due date for 
+payment thereof. The Board of Managers shall also take prompt action to collect 
+any assessment due from any Unit Owner which remains unpaid for more than 30 
+days from the due date thereof. Common Charges shall be paid by the fifth day of 
+the month in which they are due or they shall be deemed to be late.
+
+Section 6. Default in Payment of Common Charges or Assessments. In the event of 
+default by any Unit Owner in paying to the Board of Managers the Common Charges 
+or any assessment as determined by the Board of Managers, such Unit Owner shall 
+be obligated to pay interest at the highest. legal rate on such Common Charges 
+or assessments from the due date thereof, together with all expenses, including 
+late fees charged by the Board of Managers an attorney's fees incurred by the 
+Board of Managers in any proceeding brought to collect such unpaid Common 
+Charges or assessments. The Board of Managers shall have the right and duty to 
+attempt to recover such Common Charges or assessments, together with interest 
+there on, and the expenses of the proceeding, including attorneys' fees, in an 
+action to recover the same brought against such Unit Owner, or by fore- closure 
+of the lien on such Unit granted by Section 339-z of the Real Property Law of 
+the State of New York, in the manner provided in Section 339-aa thereof. A Unit 
+Owner defaulting in Payment of Common Charges or assessments shall not be 
+permitted to vote at any regular or special meeting of Unit Owners.
+
+Section 7. Foreclosure of Liens for Unpaid Common Charges. In any action brought 
+by the Board of Managers to foreclose a lien on a Unit because of unpaid Common 
+Charges, the Unit Owner shall be required to pay a reasonable rental for the use 
+of his Unit and the plaintiff in such foreclosure action shall be entitled to 
+the appointment of a receiver to collect the same. The Board of Managers, acting 
+on behalf of all Unit Owners, shall have power to purchase such Unit at the 
+foreclosure sale and to acquire, hold, lease, mortgage (but not to vote the 
+votes appurtenant to), convey or otherwise deal with the same. A suit to recover 
+a money judgment for unpaid Common Charges shall be maintainable without 
+foreclosing a waiving the lien securing the same. ,
+
+Section 8. Statement of Common Charges and Assessments. The Board of Managers, 
+Managing Agent or Manager shall promptly provide any Unit Owner so requesting 
+the same in writing, with a written statement of all unpaid Common Charges due 
+from such Unit Owner.
+
+Section 9. Abatement and Enjoinment of Violations by Unit Owners. The violation 
+of any rule or regulation adopted by the Board of Managers, or the breach of any 
+By-Laws contained herein, or the breach of any provision of the Declaration, 
+shall give the Board of Managers the right, in addition to any other
+
 
