@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background-color: #eee;
+  margin: 0;
+}
+
+body {
+  background-color: #fff;
+  border: 1px solid #bbb;
+  margin: 4ex;
+  overflow-x: hidden;
+  padding: 3ex;
+}
+
+img {
+  max-width: 80%;
+}
+
