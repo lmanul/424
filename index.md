@@ -1,7 +1,7 @@
---
+---
 layout: basic
 title: 424 West 49th street By-Laws
---
+---
 
 BY-LAWS OF 424 WEST 49TH STREET CONDOMINIUM
 
