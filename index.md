@@ -137,7 +137,7 @@ Owners.
 k. Organizing corporations to act as designees of the Board of Managers in 
 acquiring title to or leasing of Units on behalf of all Unit Owners.
 
-l. Obtaining and reviewing of insurance for the Property, including the Onits, 
+l. Obtaining and reviewing of insurance for the Property, including the Units, 
 pursuant to the provisions of Article VI, Section 2 hereof.
 
 m. Making of repairs, additions and improvements to or alterations of the 
@@ -150,7 +150,7 @@ Condominium.
 
 o. Borrowing money on behalf of the Condominium when required in connection with 
 the operation, care, upkeep and maintenance of the Common Elements provided, 
-however, that (i) the consent of a Majority of all Unie Owners shall be required 
+however, that (i) the consent of a Majority of all Unit Owners shall be required 
 for the borrowing of any sum in excess of $5,000, and (ii) no lien to secure 
 repayment of any sum borrowed may be created on any Unit or its appurtenant 
 interest in the Common Elements without the written consent.of the Unit Owner. 
@@ -169,7 +169,7 @@ against Unit owners for late payment of their Common Charges.
 q. Notwithstanding anything to the contrary contained in these By-Laws, so long 
 as the Sponsor or ‘any Sponsor-designee shall continue to own a Unit, but in 
 no event for a period in excess of two years from the closing of title to the 
-first Unit ("Pirst Unit Closing"), the Board of Managers may not, without the 
+first Unit ("First Unit Closing"), the Board of Managers may not, without the 
 Sponsor's or Sponsor-designee's prior written consent, (i) make any addition, 
 alteration or improvement to the Common Elements or to any Unit or (ii) assess 
 any Common Charge for the creation of, addition to or replacement of all or part 
@@ -200,7 +200,7 @@ the Board of Managers to perform such duties and services as the Board of
 Managers shall authorize. The Board of Managers may delegate to the Manager or 
 managing agent, all of the powers granted to the Board of Managers by these 
 By-Laws other than the -powers set forth in . Subdivisions (b), (e), (£), (g), 
-(mh), (i), (J), (k)- (m), (0) and ‘(p) of Section 2 of this Article II. The 
+(h), (i), (J), (k)- (m), (0) and ‘(p) of Section 2 of this Article II. The 
 managing agent or manager may not be a member of the Board of Managers.
 
 ### Section 4. First Board of Managers.
@@ -234,7 +234,7 @@ of the date such ownership interest ceased.
 
 Vacancies in the Board of Managers caused by any reason 
 other than the removal of a member thereof by a vote of the Unit Owners shall be 
-filled by vote of a majority of the cemaining members at a special meeting of 
+filled by vote of a majority of the remaining members at a special meeting of 
 the Board of Managers held for that purpose promptly after the occurrence of any 
 such vacancy, even though the members present at such meeting may constitute 
 less than a quorum, and each person so elected shall be a member of the Board of 
@@ -300,7 +300,7 @@ committee consent in writing to the adoption of a resolution authorizing such
 action, and the writing or writings are filed with the minutes of the 
 proceedings of the Board of the committee.
 
-### Section.12.  .Pidelity Bonds.
+### Section.12.  .Fidelity Bonds.
 
 The Board of Managers shall obtain fidelity 
 bonds-:in the amount of $50,000 or ‘more: for all officers and employees of the 
@@ -326,7 +326,7 @@ members of the Board of Managers shall have no personal liability with respect
 to any contract made by them on behalf of the Condominium within the scope of 
 their authority. It is understood and permissible for the original Board of 
 Managers, who are members of the Sponsor, to contract with the Sponsor and af
-filiated corporations without fear of being charged with self- dealing. Tt is 
+filiated corporations without fear of being charged with self- dealing. It is 
 also intended that the liability of any Unit Owner arising out of such contract 
 made by the Board of Managers or out of the aforesaid indemnity in favor of the 
 members of the Board of Managers shall be limited to such proportion of the 
@@ -375,9 +375,9 @@ Committee may not do under subsections (a)-(d) of Section 15 of Article II.
 
 ### Section l. Annual Meetings.
 
-(a) Within sixty days after the earlier of (i) the ciosing of title to Units 
+(a) Within sixty days after the earlier of (i) the closing of title to Units 
 whose aggregate Common Interest exceeds fifty percent or (ii) two years from the 
-Pirst Unit Closing, or such earlier time as Sponsor deems to be in the best 
+First Unit Closing, or such earlier time as Sponsor deems to be in the best 
 interest of the parties the Sponsor shall call a special Unit Owners meeting for 
 the purpose of electing a Board of Managers. .At such meeting the Board of 
 Managers shall resign and a new Board shall be elected by the Unit Owners. 
@@ -427,9 +427,9 @@ at a special meeting except as stated in the notice.
 It shall be the duty of the Secretary to mail a 
 notice of each annual or special meeting of the Unit Owners, at least ten but 
 not more than thirty days prior to such meeting, stating the purpose thereof as 
-vell as the time and place where it is to be held, to each Unit Owner of record, 
+well as the time and place where it is to be held, to each Unit Owner of record, 
 at the building or at such other address as such Unit Owner shall have 
-designated by notice in writing to the Secretary. Tf the purpose of any 
+designated by notice in writing to the Secretary. If the purpose of any 
 meeting shall be to act upon a proposed amendment to the Declaration or to these 
 By-Laws, the notice of meeting shall be mailed at least ten days prior to such 
 meeting. The mailing of a notice of meeting. in the manner provided in this 
@@ -472,10 +472,10 @@ j. New business
 Title to Units may be taken in the name of an 
 individual or in the names of two or more persons, as tenants in common or as 
 joint tenants or as tenants by the entirety or in the name of a corporation or 
-partnership, or in the name of a fiduciary or trust, estate, unincorporateg 
+partnership, or in the name of a fiduciary or trust, estate, unincorporated 
 association, syndicate, joint venture, Organization, government or any 
 department or agency thereof, or any other entity permitted to own real 
-property in the State of New York. The cerm "Unit Owner” as used in these 
+property in the State of New York. The term "Unit Owner” as used in these 
 By-Laws shall include any person, group or persons, association or entity taking 
 title as Set forth in this Section. The above shall not constitute consent or 
 condonation of any activity nor permitted under existing certificates of 
