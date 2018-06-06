@@ -25,7 +25,7 @@ called the "Property”) has been submitted pursuant to the provisions of Articl
 9-B of the Real Property Law of the State of New York by. the Declaration 
 recorded in the New York County Office of the Register of the City of New York, 
 simultaneously herewith. The Condominium thereby created shall hereinafter be 
-known as 424 West 49th Street Condominiun.
+known as 424 West 49th Street Condominium.
 
 ### Section 2. Applicability of By-Laws.
 
@@ -42,7 +42,7 @@ York. The Condominium Units are hereinafter sometimes referred to as "Unit" or
 
 ### Section 3. Application.
 
-All present and future owners, mortgagees, lessees and eccupants of Units and 
+All present and future owners, mortgagees, lessees and occupants of Units and 
 their employees, and any other persons who May use the facilities of the 
 Property in any manner are subject to these By-Laws, the Declaration and the 
 Rules attached hereto as Schedule A.
@@ -64,8 +64,8 @@ the Property.
 ### Section 1. Number and Tern.
 
 The number of Managers which shall constitute the 
-whole Board shall not be less than three and not more than five. Ontil succeeded 
-by thé Managers elected at the first meeting of Unit Owners called for such 
+whole Board shall not be less than three and not more than five. Until succeeded 
+by the Managers elected at the first meeting of Unit Owners called for such 
 purpose, Managers need not be Unit Owners; thereafter, all Managers, other than 
 a representative of Sponsor, shall be Unit Owners, the principal or officer of a 
 Unit Owner or the spouse of a Unit Owner. The ‘number of Managers. elected at 
@@ -115,7 +115,7 @@ overrule the Board (See Article VI, Section 16). .
 f. Opening of bank accounts on behalf of the Condominium and designating the 
 signatories required therefor.
 
-g. Purchasing or leasing or otherwise acquiring in the mame of the Board of 
+g. Purchasing or leasing or otherwise acquiring in the name of the Board of 
 Managers, or its designee, corporate or otherwise, on behalf of all Unit Owners, 
 Units offered for sale or lease surrendered by their Owners to the Board of 
 Managers. ,
