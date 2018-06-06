@@ -20,7 +20,7 @@ New York, New York 10022
 ### Section 1. Unit Ownership.
 
 The property, located in the borough of Manhattan, County of New York, City and 
-State of New York at 424 West.-49th Street, New York, New York (herein after 
+State of New York at 424 West. 49th Street, New York, New York (herein after 
 called the "Property”) has been submitted pursuant to the provisions of Article 
 9-B of the Real Property Law of the State of New York by. the Declaration 
 recorded in the New York County Office of the Register of the City of New York, 
@@ -30,7 +30,7 @@ known as 424 West 49th Street Condominium.
 ### Section 2. Applicability of By-Laws.
 
 The provisions of these By-Laws are applicable to the Property of the 
-Condominium and to the use and occupancy thereof. The term "Proper- ty” as used 
+Condominium and to the use and occupancy thereof. The term "Property” as used 
 herein shall include the land, the Building and all other improvements thereof 
 (including the Units, the Common Elements and Limited Common Elements), owned in 
 fee simple absolute, and all easements, rights and appurtenances belonging 
@@ -89,7 +89,7 @@ meeting.
 ### Section 2. Powers and Duties.
 
 The Board of Managers shall have the powers and 
-dut:2s necessary for the administration of the affairs of the Condom-nium and 
+dut:2s necessary for the administration of the affairs of the Condominium and 
 may do all such acts and. things except as by law or by che Declaration or by 
 these By-Laws may not be delegated to the Board of Managers by the Unit Owners. 
 Such powers and duties of the Board of Managers shall include, but shall not be 
@@ -109,7 +109,7 @@ d. Employment and dismissal of the personnel necessary for the maintenance and.
 operation of the Common Elements,
 
 e. Adoption and amendment of Rules and Regulations covering the details of the 
-operations and -use of the Property subject to a tight of the Unit Owners to 
+operations and use of the Property subject to a tight of the Unit Owners to 
 overrule the Board (See Article VI, Section 16). .
 
 f. Opening of bank accounts on behalf of the Condominium and designating the 
@@ -127,7 +127,7 @@ Unit Owners.
 i. Acquiring in the name of the Board of Managers, or its designee, corporate or 
 otherwise, on behalf of all Unit Owners, rights and interests in real and 
 personal property for use in connection with the ownership and operation of the 
-Property as a condominium, as des- cribed in the Declaration and these By-Laws.
+Property as a condominium, as described in the Declaration and these By-Laws.
 
 j. Selling, leasing, mortgaging (but not voting the votes appurtenant to), or 
 otherwise dealing with units acquired by, and Subleasing Units leased by the 
@@ -141,8 +141,8 @@ l. Obtaining and reviewing of insurance for the Property, including the Onits,
 pursuant to the provisions of Article VI, Section 2 hereof.
 
 m. Making of repairs, additions and improvements to or alterations of the 
-Property and repairs to and restora- tion of the Property in accordance with the 
-other provisions of these By-Laws, after damage or destruc- tion by fire or 
+Property and repairs to and restoration of the Property in accordance with the 
+other provisions of these By-Laws, after damage or destruction by fire or 
 other casualty, or as a result of condemnation of eminent domain proceedings.
 
 n. Negotiation and settlement of all claims and actions relating to the 
@@ -167,7 +167,7 @@ governing the operation and use of the Property and levying late payment charges
 against Unit owners for late payment of their Common Charges.
 
 q. Notwithstanding anything to the contrary contained in these By-Laws, so long 
-as the Sponsor or ‘any Spon- sor-designee shall continue to own a Unit, but in 
+as the Sponsor or ‘any Sponsor-designee shall continue to own a Unit, but in 
 no event for a period in excess of two years from the closing of title to the 
 first Unit ("Pirst Unit Closing"), the Board of Managers may not, without the 
 Sponsor's or Sponsor-designee's prior written consent, (i) make any addition, 
@@ -176,11 +176,11 @@ any Common Charge for the creation of, addition to or replacement of all or part
 of a reserve, contingency or surplus fund except that Sponsor will consent to 
 replacements to the contingency fund provided for in Schedule B of the Offering 
 Plan for the Property to the extent that the aggregate amount of such fund does 
-not exceed 3.00% of the budgeted expenses of the Con- dominium or (iii) borrow 
+not exceed 3.00% of the budgeted expenses of the Condominium or (iii) borrow 
 money on behalf of the Condominium (except where necessary to perform work 
 required by law to the extent that existing reserves are insufficient). As long 
 as the Sponsor or any Sponsor-designee shall continue to own a Unit the Board of 
-Managers may not, without the Sponsor's or Spon- sor-designee's prior written 
+Managers may not, without the Sponsor's or Sponsor-designee's prior written 
 consent (i) amend the Declaration or these By-Laws so as to in any way adversely 
 affect the Sponsor or its designees or (ii) interfere with the offer and sale or 
 leasing of Units; Operation of general or sales and leasing offices at the 
@@ -287,7 +287,7 @@ required and any business may be transacted at such meeting.
 
 At all meetings of the Board of 
 Managers, a majority of the members thereof shall constitute a quorum for the 
-transaction of busi- ness, and the votes of a majority of the members of the 
+transaction of business, and the votes of a majority of the members of the 
 Board of Managers present at a meeting at which a quorum is present shall 
 constitute the decision of the Board of Managers. T£ at any meeting of the Board 
 of Managers there shall be less than quorum present, a majority of those present 
@@ -318,14 +318,14 @@ The members of. the Board of
 Members shall not be liable to the Unit Owners for any mistake of judgment, 
 negligence, or otherwise, except for their own individual willful misconduct or 
 bad faith. The Unit Owners shall indemnify and hold harmless each of the members 
-of the Board of Managers against all contractual. liabil- ity to others arising 
+of the Board of Managers against all contractual. liability to others arising 
 out of contracts made by the Board of Managers on behalf of the Condominium 
 unless any such contract shall have been made in bad faith or contrary to the 
 provisions of the Declaration or of these By-Laws. It is intended that the 
 members of the Board of Managers shall have no personal liability with respect 
 to any contract made by them on behalf of the Condominium within the scope of 
 their authority. It is understood and permissible for the original Board of 
-Managers, who are members of the Sponsor, to contract with the Sponsor and af- 
+Managers, who are members of the Sponsor, to contract with the Sponsor and af
 filiated corporations without fear of being charged with self- dealing. Tt is 
 also intended that the liability of any Unit Owner arising out of such contract 
 made by the Board of Managers or out of the aforesaid indemnity in favor of the 
@@ -346,7 +346,7 @@ The Board of Managers may, by. resolution duly
 adopted, appoint an Executive Committee to consist of three or more members of 
 the Board of Managers, at least one of whom shall be a member designated by the 
 Sponsor or Sponsor-designee so long as the Sponsor or Sponsor-designee has the 
-right to designate a member of - the Board. Such Executive Committee shall have 
+right to designate a member of the Board. Such Executive Committee shall have 
 and may exercise all the powers of the Board of Managers in the managing of the 
 business and affairs of the Condominium during the intervals between the 
 meetings of the Board of Managers insofar as may be permitted by law, except 
@@ -366,7 +366,7 @@ have such powers and authority as the Board of Managers shall vest therein. ~e
 members of any such committee, at least one of whom shal= e designated by the 
 Sponsor or a Sponsor-designee, 30 long as a Sponsor or Sponsor-designee has the 
 right to designate ar it of the Board, shall be appointed by the President of 
-the = .a- dominium. The members of any such committee need not be a member of 
+the = .adominium. The members of any such committee need not be a member of 
 the Board of Managers, but must be eligible to be elected to the Board of 
 Managers. Such committee shall not have power to do any act which the Executive 
 Committee may not do under subsections (a)-(d) of Section 15 of Article II.
@@ -383,7 +383,7 @@ the purpose of electing a Board of Managers. .At such meeting the Board of
 Managers shall resign and a new Board shall be elected by the Unit Owners. 
 Thereafter, annual meetings s hall be held on or about the anniversary of such 
 date each succeeding year. At such meetings, there shall be elected by ballot of 
-the Unit Owners a Board of Managers in accordance with the require- ments of 
+the Unit Owners a Board of Managers in accordance with the requirements of 
 Article II of these By-Laws. The Unit Owners may also transact such other 
 business of the Condominium as may properly come before them.
 
@@ -429,7 +429,7 @@ notice of each annual or special meeting of the Unit Owners, at least ten but
 not more than thirty days prior to such meeting, stating the purpose thereof as 
 vell as the time and place where it is to be held, to each Unit Owner of record, 
 at the building or at such other address as such Unit Owner shall have 
-designated by notice in writing to the Secre- tary. Tf the purpose of any 
+designated by notice in writing to the Secretary. Tf the purpose of any 
 meeting shall be to act upon a proposed amendment to the Declaration or to these 
 By-Laws, the notice of meeting shall be mailed at least ten days prior to such 
 meeting. The mailing of a notice of meeting. in the manner provided in this 
@@ -474,11 +474,11 @@ individual or in the names of two or more persons, as tenants in common or as
 joint tenants or as tenants by the entirety or in the name of a corporation or 
 partnership, or in the name of a fiduciary or trust, estate, unincorporateg 
 association, syndicate, joint venture, Organization, government or any 
-department or agency thereof, or any other entity permit- ted to own real 
+department or agency thereof, or any other entity permitted to own real 
 property in the State of New York. The cerm "Unit Owner” as used in these 
 By-Laws shall include any person, group or persons, association or entity taking 
 title as Set forth in this Section. The above shall not constitute consent or 
-condonation of any activity nor permitted under existing certifi- cates of 
+condonation of any activity nor permitted under existing certificates of 
 occupancy, zoning requirements or other applicable law or regulation.
 
 ### Section 8. Voting.
@@ -496,10 +496,10 @@ attributable to the Unit or Units owned by them on all matters put to a vote at
 all meetings of unit Owners; except that, when voting for the election of 
 members of the Board — of. Managers,each:-Unit Owner: (i) shall be entitled to 
 one vote for each .0001% of Common Interest attributable to his Unit per member 
-to be elected, and (ii) shall not have the right to cumu- late his votes in 
+to be elected, and (ii) shall not have the right to cumulate his votes in 
 favor of any one or more members to be elected. If Units are owned by more than 
 one person as joint tenants, tenants by the entirety or as tenants in common or 
-by a partner- ship, corporation or other entity, the persons owning said Unit 
+by a partnership, corporation or other entity, the persons owning said Unit 
 shall agree among themselves and cast the votes for their Unit. A fiduciary 
 shall be the voting member with respect to any Unit in a fiduciary capacity. Any 
 Onit or Units owned by the Board of Managers or its designee shall not be 
@@ -532,16 +532,16 @@ Any action required or permitted to be taken
 by the Unit Owners may be taken without a meeting if the number of Unit Owners 
 required by the Declaration, these By-Laws or applicable law consent in writing 
 to the adoption of a resolution authorizing such action and. the writing or 
-writings are filed with the records of the Con- dominium.
+writings are filed with the records of the Condominium.
 
 ## ARTICLE IV -- OFFICERS
 
 ### Section 1. Designation.
 
-The principal officers of the - Condominium shall be the 
+The principal officers of the Condominium shall be the 
 President, the Vice President,the Secretary and the Treasurer, all of whom shall 
 be elected by the Board. of Managers. The Board of Managers may appoint an 
-assis- tant treasurer, an assistant secretary, and such other officers as in its 
+assistant treasurer, an assistant secretary, and such other officers as in its 
 judgment may be necessary. The President and ~-Vice President, but no other 
 officers, need be members of the Board of Managers.
 
@@ -595,7 +595,7 @@ accurate financial records and books of account showing all receipts and
 disbursements and for the preparation of all required financial data. He shall 
 be responsible forth deposit of all moneys and other valuable effects in the. 
 name of the Board of Managers, or the managing agent, in such depositories as 
-may from time to time be desig- nated by the Board of Managers, and he shall,in 
+may from time to time be designated by the Board of Managers, and he shall,in 
 general, perform ali the duties incident to the office of treasurer of a stock 
 corporation organized under the Business Corporation Law of the State of New 
 York.
@@ -664,7 +664,7 @@ sale, together with such amounts as Unit(s). The Board of Managers shall also,
 where necessary, impose an assessment or additional Common Charge in order to 
 meet any unanticipated Common Expense. The Board of Managers shall advise all 
 Unit Owners, promptly,in writing, of the amount of Common Charges payable by 
-each of them, respectively, as deter- mined by the Board of Managers, as 
+each of them, respectively, as determined by the Board of Managers, as 
 aforesaid, and shall furnish copies of each budget on which such charges are 
 based,to all Unit Owners and to their mortgagees, if so required.
 
@@ -688,11 +688,11 @@ determined by the Board of Managers but in no event to be less tHKan eighty
 percent of the full replacement cost of the Building, including footings and 
 foundations, as approved by a fire insurance company or a qualified insurance 
 broker; each of said policies shall contain a Condominium Property Endorsement 
-and a New York standard mort- gagee clause in favor of each mortgagee of a Unit 
+and a New York standard mortgagee clause in favor of each mortgagee of a Unit 
 which shall provide that the loss, if any, thereunder shall be payable to such 
 mortgagee as its interest may appear, subject however, to ‘the loss payment 
 provisions in favor of the Board of Managers and the Insurance Trustee, as 
-herein provided; (2) workmen's compen- sation insurance, if the Condominium has 
+herein provided; (2) workmen's compensation insurance, if the Condominium has 
 employees; (3) a fidelity bond or bonds in sufficient amounts, to fully protect 
 the interest of the Condominium, shall be carried on each member of the Board of 
 Managers, officers of the condominium, managing agent and managers, including 
@@ -745,7 +745,7 @@ In the event
 of damage to or destruction of the Building containing the Units as a result of 
 fire or other casualty, unless seventy-five percent or more of the Building 
 containing the Units is destroyed or substantially damaged and Unit Owners whose 
-percentage of Common [Interest totals seventy- five percent in the aggregate of 
+percentage of Common [Interest totals seventy-five percent in the aggregate of 
 the total Common Interest do not duly and promptly resolve to proceed with 
 repair or restoration, the Board of Managers shall arrange for the prompt repair 
 and restoration of the Building containing the Units(including any damaged 
@@ -771,7 +771,7 @@ paragraph of this Section 3, and the amount of insurance proceeds shall have
 exceeded the cost of such repair or restoration,then the excess of such 
 insurance proceeds) shall be divided by the Board of Managers or the Insurance 
 Trustee, as the case may be, among all the Unit Owners in proportion to their 
-respective Common [nter- est,. after first payment out of the share of each Unit 
+respective Common [nterest,. after first payment out of the share of each Unit 
 Owner the amount of any unpaid liens on his Unit, in the order of the priority 
 of such liens.
 
@@ -794,7 +794,7 @@ shall determine.
 
 No Unit Owner shall be liable for the Payment of any part of the Common Charges 
 assessed against his Unit subsequent to a sale, transfer or other. conveyance by 
-him (made in accor- dance with the provisions of Section 1 of Article VIII of 
+him (made in accordance with the provisions of Section 1 of Article VIII of 
 these By-Laws) of such Unit,together with the Appurtenant Interest, as defined 
 in Section 1 of Article VIII here of. In addition, any Unit Owner may, subject 
 to the terms and conditions specified in these By-Laws, provided that his Unit 
@@ -832,7 +832,7 @@ Board of Managers in any proceeding brought to collect such unpaid Common
 Charges or assessments. The Board of Managers shall have the right and duty to 
 attempt to recover such Common Charges or assessments, together with interest 
 there on, and the expenses of the proceeding, including attorneys' fees, in an 
-action to recover the same brought against such Unit Owner, or by fore- closure 
+action to recover the same brought against such Unit Owner, or by foreclosure 
 of the lien on such Unit granted by Section 339-z of the Real Property Law of 
 the State of New York, in the manner provided in Section 339-aa thereof. A Unit 
 Owner defaulting in Payment of Common Charges or assessments shall not be 
@@ -891,13 +891,13 @@ b. All maintenance, repairs and teplacements to the General Common Elements as
 defined in the Declaration, and the painting and decorating of the exterior side 
 of Unit entrance doors and windows shall be made by the Board of Managers and be 
 charged to all the Unit Owners as a Common Expense, excepting to the extent that 
-the same are neces- sitated by the Negligence, misuse or neglect of a Unit 
+the same are necessitated by the Negligence, misuse or neglect of a Unit 
 Owner,in which case such expense shall be charged to such Unit Owner. 
 Maintenance, repair and replacements in or to the Limited Common Elements as 
 defined in the Declaration will be performed (a) by the Board of Managers as a 
 Common Expense, if such Limited Common Element is for use by all Residential. 
 Unit Owners, or if it involves structural or extraordinary maintenance, repairs 
-or replacements (includ- ing, but not limited to, the repair of any leaks that 
+or replacements (including, but not limited to, the repair of any leaks that 
 are not caused by the acts or omissions of the Unit Owner,having direct and 
 exclusive access thereto), or (b) by the Unit Owner having direct and exclusive 
 access thereto at his sole cost and expense, if involving non-structural 
@@ -918,7 +918,7 @@ code or ether rules and regulations of governmental authorities having
 jurisdiction. Any Unit may also be used as a professional office by a resident 
 thereof provided such professional use does not violate zoning regulations and 
 provided further that the prior consent of the Board of Managers to such 
-professional use is obtained. Not- withstanding the foregoing the Sponsor or 
+professional use is obtained. Notwithstanding the foregoing the Sponsor or 
 Sponsor-designee shall have the right,without charge, (i) to maintain general 
 and sales offices in one or more Units or elsewhere on the Property, whether or 
 not relating to The Property, to use one or more Units as models and for other 
@@ -926,7 +926,7 @@ promotional purposes and use one or more Units as models and for other
 promotional purposes and to erect and maintain signs on the Property; (ii) to 
 have its employees, contractors and sales agents present on the Property; (iii) 
 to do all things necessary or appropriate, including the use of the Common 
-Elements, to sell or lease Units and to complete construc- tion of the Building 
+Elements, to sell or lease Units and to complete construction of the Building 
 and to comply with its obligations.
 
 b. The Common Elements shall be used only for the furnishing of the services and 
@@ -935,15 +935,15 @@ use and occupancy of Units.
 
 c. No nuisances shall be allowed on the Property nor shall any use or practice 
 be allowed which is a source of annoyance to its residents or which interferes 
-with the peaceful posses- sion or proper use of the Property by its residents.
+with the peaceful possession or proper use of the Property by its residents.
 
 d. No immoral, improper, offensive, or unlawful use shall be made of the 
 Property or any part thereof, and all valid laws, zoning ordinances and 
 regulations of all governmental bodies having jurisdiction thereof shall be 
-observed. Violations of laws, orders, rules,regulations or require- ments of any 
+observed. Violations of laws, orders, rules,regulations or requirements of any 
 governmental agency having jurisdiction thereof, relating to any portion of the 
 Property, shall be eliminated, by and at the sole expense of the Unit Owners, or 
-the Board of Managers, whichever shall have the obliga- tion to maintain or 
+the Board of Managers, whichever shall have the obligation to maintain or 
 repair such portion of the Property.
 
 e. No portion of a Unit or other Limited Common Elements appurtenant thereto 
@@ -956,10 +956,10 @@ Subject
 to the provisions of Section 2 of ‘Article II of these By-Laws, whenever in the 
 judgment of the Board of Managers the Common Elements shall require additions, 
 alterations or improvements. (but not Maintenance) costing in excess of 
-$5,000.00, and the making of such additions, altera- tions or improvements shall 
+$5,000.00, and the making of such additions, alterations or improvements shall 
 have been approved by a majority of the Unit Owners, the Board of Managers 
 shall: proceed with such additions, alterations or improvements and shall assess 
-all Unit Owners for the cost thereof as a Common Charge. Any ad- 
+all Unit Owners for the cost thereof as a Common Charge. Any ad
 ditions,alterations or improvements costing $5,000.00 or less may be made by the 
 Board of Managers without approval of the unit Owners and the cost thereof shall 
 constitute part of the Common Expenses.
@@ -970,13 +970,13 @@ Except as
 provided below, no Unit Owner shall make any structural addition, alteration or 
 improvement in or to his Unit, or which affects the exterior of the Building or 
 the value of other Units, without prior written consent thereto of the Board of 
-Managers. The Board of Managers shall have the obliga- tion to answer in writing 
+Managers. The Board of Managers shall have the obligation to answer in writing 
 any written request by a Unit Owner for approval of a proposed structural 
 addition, alteration or improvement in such Unit Owner's Unit, within thirty 
 (30) days after such request,and failure to do 30 within the stipulated time 
 shall constitute a consent by the Board of Managers to the proposed addition, 
 alteration or improvement. Any application to any department of the City of New 
-York or to any other governmen- tal authority for a permit to make an addition, 
+York or to any other governmental authority for a permit to make an addition, 
 alteration or improvement in or to any Unit shall be executed by the Board of 
 Managers only, without however, incurring any liability on the part of the Board 
 of Managers or any of them to any contractor, subcontractor or materialman on 
@@ -1014,7 +1014,7 @@ designees have the right to make physical alterations: and improvements to the
 rear yard, without the need to obtain such consent. All other provisions of 
 this’ Section 13 shall apply to all Units.
 
-Non-structural alterations and improvements to Residen- tial Units that do not 
+Non-structural alterations and improvements to Residential Units that do not 
 affect the exterior of the Building or the value of other Units may be made 
 without the prior approval of the Board of Managers..
 
@@ -1022,7 +1022,7 @@ without the prior approval of the Board of Managers..
 
 A Unit Owner shall not place 
 or cause to be placed in the lobby, public halls, stairways or other common 
-areas or common facili- ties, any furniture, packages or objects of any kind. 
+areas or common facilities, any furniture, packages or objects of any kind. 
 The public halls and stairways shall be used for no purpose other than for 
 normal transit through them. The Sponsor and any Sponsor- designee shall have 
 the right to use the Common Elements, without charge, for the purpose set forth 
@@ -1032,10 +1032,10 @@ in Section II of this Article VI.
 
 A Unit Owner shall grant a right of access to his 
 Unit, to the manager and/or the managing agent and/or any other person 
-authorized by the Board of Man- agers, the manager or the managing agent, for 
+authorized by the Board of Managers, the manager or the managing agent, for 
 the purpose of making inspections or for the purpose of correcting any condition 
 originating in his Unit and threatening another Unit or a Common Element, or for 
-the purpose of performing installations, altera- tions or repairs to the 
+the purpose of performing installations, alterations or repairs to the 
 mechanical. or electrical services or other Common Elements in his Unit or 
 elsewhere in the Building in which the Unit is located, provided that requests 
 for entry are made in advance and that any such entry is at a time reasonably 
@@ -1098,7 +1098,7 @@ that it be afforded reasonable notification of any mortgage default.
 The S8o0ard of Managers when so requested in 
 writing by a mortgagee of a Unit shall promptly notify any mortgagee of a Unit 
 of such Unit Owner's default, including non-payment of Common Charges, in the 
-Obligations of such Unit Owner under the Declaration,- By~Laws, Rules and 
+Obligations of such Unit Owner under the Declaration,By~Laws, Rules and 
 Regulations, as the same are amended from time to time, or in any order of the 
 Board of Managers issued with trespect thereto.
 
@@ -1123,7 +1123,7 @@ business days.
 
 No Unit Owner other than the Sponsor or 
 Sponsor-designee may sell or lease his Unit or any interest therein except by 
-complying with the following pro- visions:
+complying with the following provisions:
 
 Any Unit Owner who receives a bona fide offer for the sale of his Unit together 
 with: (i) the undivided interest of the Common Elements and any Limited Common 
@@ -1131,8 +1131,8 @@ Elements appurtenant thereto; (ii) the interest of such Unit Owner in any Units
 theretofore acquired by the Board of Managers, or its designee, on behalf of all 
 Unit Owners, or the proceeds of the sale or lease thereof, if any; (iii) the 
 interest of such Unit Owner in any other assets of the Condominium; as defined 
-in the Declara- tion, (hereinafter collectively called the “*Appurtenant Inter- 
-est"), or a bona fide offer for a lease of his Unit; (here- inafter called an 
+in the Declaration, (hereinafter collectively called the “*Appurtenant Inter
+est"), or a bona fide offer for a lease of his Unit; (hereinafter called an 
 “Outside Offer"), which he intends to accept, shall give notice by certified or 
 registered mail to the Board of Managers of such offer and of such intention, 
 the name and address of the proposed purchaser or lessee, the terms of the 
@@ -1141,10 +1141,10 @@ reasonably require, and shall offer to sell such Unit, together with the
 Appurtenant Interests, or to lease such Unit, to the Board of Managers, or its 
 designee, corporate or otherwise, on behalf. of the Owners of all other Units, 
 on the same terms and conditions as contained in such outside Offer. The giving 
-of such notice shall constitute a warranty and representa- tion by the Unit 
+of such notice shall constitute a warranty and representation by the Unit 
 Owner who has received such offer, to the Board of Managers on behalf of the 
 other. Unit Owners, that such Unit Owner believes the Outside Offer to be bona 
-fide in all- respects. Within twenty days after receipt of such notice, the 
+fide in allrespects. Within twenty days after receipt of such notice, the 
 Board of Managers may elect, by notice given within Five days after making such 
 election, and in any event, within said twenty day period, to such Unit Owner, 
 by certified or registered mail, to purchase such Unit, together with the 
@@ -1257,14 +1257,14 @@ lease of Units by the Board of Managers, or its designee, on behalf of all Unit
 Owners, may be made from the working capital and Common Charges in the 
 possession of the Board of Managers, or, if such funds are insufficient, the 
 Board of Managers may levy an assessment against each Unit. Owner, other than 
-the offering Unit Owner, in proportion to his owner- ship in the Common 
+the offering Unit Owner, in proportion to his ownership in the Common 
 Elements, as a Common Charge, which assessment shall be enforceable in the same 
 manner as provided in Section 6 and 7 of Article VI, or, the Board of Managers, 
-in its discre- tion, may borrow money to finance the acquisition or lease of 
+in its discretion, may borrow money to finance the acquisition or lease of 
 such unit, provided, however, that no financing may be secured by an encumbrance 
 or hypothecation of any property other than the Unit, together with the 
 Appurtenant Interests, so to be acquired by the Board of Managers. 
-Notwithstanding the above, no assess- ment may be levied under this Section 6 
+Notwithstanding the above, no assessment may be levied under this Section 6 
 against any mortgagee who has acquired title to a Unit, whether by foreclosure 
 or deed in lieu thereof.
 
@@ -1310,7 +1310,7 @@ No Unit Owner shall mortgage his Unit, except by
 a first and/or second mortgage made to a bank, trust company, insurance company, 
 federal savings and loan association, pension fund or other institutional lender 
 or a purchase money mortgage made to the Sponsor, Sponsor-designee, or to the 
-seller of the Unit. Any. such mortgage shall be substan- tially in the form on 
+seller of the Unit. Any. such mortgage shall be substantially in the form on 
 file with the Board of Managers, except for such changes or additions as may be 
 required in order to permit the particular institutional. lender to make the 
 mortgage loan, or to the extent permitted by the Board of Managers. A mortgage 
@@ -1320,7 +1320,7 @@ to the Sponsor's relinquishing control of the Board of Managers, or the Board of
 Managers, subsequent to the release of control by the Sponsor. Such approval 
 shall be in the sole and absolute discretion of Sponsor or the Board of Managers 
 as the case may be. Prior to or simultaneously with the closing of any mortgage, 
-the Unit Owner must satisfy all ar- rearages for unpaid Common Charges or 
+the Unit Owner must satisfy all arrearages for unpaid Common Charges or 
 assessments and discharge any liens therefor.
 
 ## ARTICLE IX -- CONDEMNATION
@@ -1429,7 +1429,7 @@ designee, in Sponsor's sole discretion, without Sponsor's prior written consent.
 These By-Laws are set forth to comply with the 
 requirements of Article 9-B of the Real Property Law of the State of New York. 
 In case any of these By-Laws conflict with the provisions of said statute or of 
-the Declara- tion, the provisions of said statute or of the Declaration, as the 
+the Declaration, the provisions of said statute or of the Declaration, as the 
 case may be, shall control.
 
 SHEDULE A
@@ -1443,7 +1443,7 @@ code or other rules and regulations of governmental authorities having
 jurisdiction. Such Units may also be used as professional offices by a resident 
 thereof provided approved for such professional use is obtained. No illuminated 
 or other sign may be used in connection with the aforementioned use with the 
-exception of a professional Sign, non-il- luminated, not larger than the size 
+exception of a professional Sign, non-illuminated, not larger than the size 
 permitted by the Board of Managers. ~
 
 2. Except as set forth above, no industry, business, trade, occupation or 
@@ -1488,14 +1488,14 @@ Elements except such as shall have been approved by the Board of Managers.
 8. Except as provided above, no sign,: notice, letteri. , or advertisement shall 
 be inscribed or exposed on or ~. any window, door, or other part of the 
 Building, except such as shall have been approved in writing by the Board of 
-Mana- gers, nor shall anything be projected out of any window of the Building 
+Managers, nor shall anything be projected out of any window of the Building 
 without similar approval.
 
 9. All garbage and refuse from the Building shall be deposited with care in 
 plastic bags or other suitable receptacles intended for such purpose only at 
 such times and in such manner as the Board of Managers may direct. ,
 
-10. Water- closets and other water apparatus in the Building shall not be used 
+10. Waterclosets and other water apparatus in the Building shall not be used 
 for any purposes other than those for which they were constructed; nor shall any 
 sweepings, rubbish, rags, paper, ashes, or any other article be thrown into the 
 same. Any damage resulting from misuse of any water closet or other apparatus 
@@ -1520,7 +1520,7 @@ installation of any hook-up necessary to provide cable television service to the
 Units.
 
 14. The agents of the Board of Managers, and any contractor or workman 
-authorized by them, may enter any Unit at a reason- able hour of the day for any 
+authorized by them, may enter any Unit at a reasonable hour of the day for any 
 purpose permitted under the terms of the Declaration, By-Laws, or Rules and 
 -Regulations of the Condominium.
 
@@ -1564,7 +1564,7 @@ shall any nuisance or immoral or illegal activity be committed -or permitted to
 occur in or about any Unit or upon any part of the Common Elements.
 
 24. Certain parts of the Common Elements are intended for the purpose of 
-affording pedestrian movement within the. Con- dominium and of providing access 
+affording pedestrian movement within the. Condominium and of providing access 
 to the Units. No part of the Common Elements shall be obstructed as to interfere 
 with its use for the purposes hereinabove recited; nor shall any part of the 
 Common Elements be used for general storage purposes, except maintenance 
@@ -1575,10 +1575,10 @@ situated thereon.
 25. No immoral, improper, offensive, or unlawful use shall be made of the 
 Property or any part thereof, and all valid laws, zoning ordinances and 
 regulations of all governmental bodies having jurisdiction thereof shall be 
-observed. Violations of laws, orders, rules, regulations or require- ments of 
+observed. Violations of laws, orders, rules, regulations or requirements of 
 any governmental agency having jurisdiction thereof, relating to any portion of 
 the Property, shall be eliminated, by and at the sole expense of the Unit 
-Owners, or the Board of Managers, whichever shall have the obliga- tion to 
+Owners, or the Board of Managers, whichever shall have the obligation to 
 maintain or repair such portion of the Property.
 
 26. Subject to provisions of the By-Laws, these Rules and Regulations may be 
