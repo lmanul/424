@@ -414,13 +414,9 @@ special meeting of the Unit Owners as directed by the Board of Managers or upon
 a petition signed by a majority of the Unit Owners as defined in Section 9 of 
 this Article III having been presented to the Secretary. The notice of any 
 special meeting shall state the time and Place of such
-
-of Unit Owners cannot be held because a quorum has not
-
--
-
-meeting and the purpose thereof. No business shall-be transacted
+meeting and the purpose thereof. No business shall be transacted
 at a special meeting except as stated in the notice.
+
 
 ### Section 4. Notice of Meetings.
 
@@ -483,27 +479,26 @@ occupancy, zoning requirements or other applicable law or regulation.
 
 ### Section 8. Voting.
 
-The Owner or Owners of each Unit, or some person designated 
-by such Owner or Owners to act as proxy on his or their behalf and who need not 
-be an Owner, shall be entitled to cast the votes appurtenant to such Unit at all 
-meetings of Unit Owners. The designation of any such proxy shall be made in 
-writing to the Secretary, and shall be revocable at any time by written notice 
-to the Secretary by the Owner or Owners so designating. Any or all of such 
-Owners may be present at any meeting of the Unit Owners. The Owners of each Unit 
-if the Sponsor or its designee shall then own one or more Units) shall been 
-titled to cast one vote for each .0001% of interest in the Common Elements 
-attributable to the Unit or Units owned by them on all matters put to a vote at 
-all meetings of unit Owners; except that, when voting for the election of 
-members of the Board — of. Managers,each:-Unit Owner: (i) shall be entitled to 
-one vote for each .0001% of Common Interest attributable to his Unit per member 
-to be elected, and (ii) shall not have the right to cumulate his votes in 
-favor of any one or more members to be elected. If Units are owned by more than 
-one person as joint tenants, tenants by the entirety or as tenants in common or 
-by a partnership, corporation or other entity, the persons owning said Unit 
-shall agree among themselves and cast the votes for their Unit. A fiduciary 
-shall be the voting member with respect to any Unit in a fiduciary capacity. Any 
-Onit or Units owned by the Board of Managers or its designee shall not be 
-entitled to vote.
+The Owner or Owners of each Unit, or some person designated by such Owner or 
+Owners to act as proxy on his or their behalf and who need not be an Owner, 
+shall be entitled to cast the votes appurtenant to such Unit at all meetings of 
+Unit Owners. The designation of any such proxy shall be made in writing to the 
+Secretary, and shall be revocable at any time by written notice to the Secretary 
+by the Owner or Owners so designating. Any or all of such Owners may be present 
+at any meeting of the Unit Owners. The Owners of each Unit if the Sponsor or its 
+designee shall then own one or more Units) shall been titled to cast one vote 
+for each .0001% of interest in the Common Elements attributable to the Unit or 
+Units owned by them on all matters put to a vote at all meetings of unit Owners; 
+except that, when voting for the election of members of the Board — of. 
+Managers,each Unit Owner: (i) shall be entitled to one vote for each .0001% of 
+Common Interest attributable to his Unit per member to be elected, and (ii) 
+shall not have the right to cumulate his votes in favor of any one or more 
+members to be elected. If Units are owned by more than one person as joint 
+tenants, tenants by the entirety or as tenants in common or by a partnership, 
+corporation or other entity, the persons owning said Unit shall agree among 
+themselves and cast the votes for their Unit. A fiduciary shall be the voting 
+member with respect to any Unit in a fiduciary capacity. Any Unit or Units owned 
+by the Board of Managers or its designee shall not be entitled to vote.
 
 ### Section 9. Majority of Unit Owners.
 
@@ -511,7 +506,7 @@ As used in these By-Laws the term “majority
 of Unit Owners" shall mean those Unit Owners having greater than 50% of the 
 total authorized votes of all Unit Owners present in person or by proxy and 
 voting at any meeting of the Unit Owners, determined in accordance with the 
-provisions of Section 8 of this Article III
+provisions of Section 8 of this Article III.
 
 ### Section 10. Quorum.
 
