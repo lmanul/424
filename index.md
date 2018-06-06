@@ -61,21 +61,21 @@ the Property.
 
 ## ARTICLE II -- BOARD OF MANAGERS
 
-### Section 1. Number and Tern.
+### Section 1. Number and Term.
 
-The number of Managers which shall constitute the 
-whole Board shall not be less than three and not more than five. Until succeeded 
-by the Managers elected at the first meeting of Unit Owners called for such 
-purpose, Managers need not be Unit Owners; thereafter, all Managers, other than 
-a representative of Sponsor, shall be Unit Owners, the principal or officer of a 
-Unit Owner or the spouse of a Unit Owner. The ‘number of Managers. elected at 
-the first such . eeti. be five. Thereafter, within the limits above » “number of 
-Managers shall be determined by the Unit Owners at their annual meetings: The 
-Managers shall be elected at the annual meeting of the members. Except as 
-provided in Section 1(b) of Article III of these. By-Laws, at the first meeting 
-of the Unit Owners at which Managers are to be elected the term of office of two 
-of the Managers shall be fixed for three years. The two term of office of one of 
-the Managers shall be fixed at two years, and the term of office of one of the 
+The number of Managers which shall constitute the whole Board shall not be less 
+than three and not more than five. Until succeeded by the Managers elected at 
+the first meeting of Unit Owners called for such purpose, Managers need not be 
+Unit Owners; thereafter, all Managers, other than a representative of Sponsor, 
+shall be Unit Owners, the principal or officer of a Unit Owner or the spouse of 
+a Unit Owner. The number of Managers elected at the first such meeting shall be 
+five. Thereafter, within the limits above specified, the number of Managers 
+shall be determined by the Unit Owners at their annual meetings: The Managers 
+shall be elected at the annual meeting of the members. Except as provided in 
+Section 1(b) of Article III of these By-Laws, at the first meeting of the Unit 
+Owners at which Managers are to be elected the term of office of two of the 
+Managers shall be fixed for three years. The two term of office of one of the 
+Managers shall be fixed at two years, and the term of office of one of the 
 Managers shall be fixed at one year. The two nominees receiving the two greatest 
 number of votes shall. serve three year terms, the one nominee receiving the 
 next greatest number of votes shall serve a two year term, and the nominee 
@@ -89,11 +89,11 @@ meeting.
 ### Section 2. Powers and Duties.
 
 The Board of Managers shall have the powers and 
-dut:2s necessary for the administration of the affairs of the Condominium and 
+duties necessary for the administration of the affairs of the Condominium and 
 may do all such acts and. things except as by law or by che Declaration or by 
 these By-Laws may not be delegated to the Board of Managers by the Unit Owners. 
 Such powers and duties of the Board of Managers shall include, but shall not be 
-Limited to, the following: .
+limited to, the following:
 
 a. Contracting for the necessary services for operation, care, upkeep and 
 maintenance of the Common Elements.
