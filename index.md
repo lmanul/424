@@ -300,7 +300,7 @@ committee consent in writing to the adoption of a resolution authorizing such
 action, and the writing or writings are filed with the minutes of the 
 proceedings of the Board of the committee.
 
-### Section.12.  .Fidelity Bonds.
+### Section 12. Fidelity Bonds.
 
 The Board of Managers shall obtain fidelity 
 bonds-:in the amount of $50,000 or ‘more: for all officers and employees of the 
