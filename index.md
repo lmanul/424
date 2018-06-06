@@ -739,7 +739,7 @@ of any such additional insurance carried by any. Unit Owner. Such policies shall
 be so endorsed as to state -:hat they will in no way conflict with any insurance 
 carried by tre Board of Managers.
 
-### Section 3. Repair or Reconstruction After Pire or Other Casualty.
+### Section 3. Repair or Reconstruction After Fire or Other Casualty.
 
 In the event 
 of damage to or destruction of the Building containing the Units as a result of 
