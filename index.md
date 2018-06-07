@@ -90,7 +90,7 @@ meeting.
 
 The Board of Managers shall have the powers and 
 duties necessary for the administration of the affairs of the Condominium and 
-may do all such acts and. things except as by law or by che Declaration or by 
+may do all such acts and. things except as by law or by the Declaration or by 
 these By-Laws may not be delegated to the Board of Managers by the Unit Owners. 
 Such powers and duties of the Board of Managers shall include, but shall not be 
 limited to, the following:
@@ -304,7 +304,7 @@ proceedings of the Board of the committee.
 
 The Board of Managers shall obtain fidelity 
 bonds-:in the amount of $50,000 or ‘more: for all officers and employees of the 
-Condominium handling or _ tesponsible for Condominium funds and for the managing 
+Condominium handling or _ responsible for Condominium funds and for the managing 
 agent. The premiums on such bonds shall constitute a Common Expense.
 
 ### Section 13. Compensation.
@@ -314,31 +314,31 @@ compensation from the Condominium for acting as such.
 
 ### Section 14. Liability of the Board of Managers.
 
-The members of. the Board of 
-Members shall not be liable to the Unit Owners for any mistake of judgment, 
-negligence, or otherwise, except for their own individual willful misconduct or 
-bad faith. The Unit Owners shall indemnify and hold harmless each of the members 
-of the Board of Managers against all contractual. liability to others arising 
-out of contracts made by the Board of Managers on behalf of the Condominium 
-unless any such contract shall have been made in bad faith or contrary to the 
-provisions of the Declaration or of these By-Laws. It is intended that the 
-members of the Board of Managers shall have no personal liability with respect 
-to any contract made by them on behalf of the Condominium within the scope of 
-their authority. It is understood and permissible for the original Board of 
-Managers, who are members of the Sponsor, to contract with the Sponsor and af
-filiated corporations without fear of being charged with self- dealing. It is 
-also intended that the liability of any Unit Owner arising out of such contract 
-made by the Board of Managers or out of the aforesaid indemnity in favor of the 
-members of the Board of Managers shall be limited to such proportion of the 
-total liability thereunder as his interest in the Common Elements bears to the 
-interests of all the Unit Owners in the Common Elements. Every agreement made by 
-the Board of Managers or by the managing agent or by the Manager on behalf of 
-the Condominium shall provide that the members of the Board of Managers, or the 
-Managing agent, or the manager, as the case may be, are acting only as agent for 
-the Unit Owners and shall have no personal liability thereunder (except as Unit 
-Owners), and that each Unit Owner's liability thereunder shall be limited to 
-such proportion of the total liability thereunder as his interest in the Common 
-Elements bears to the interest of all Unit Owners in the Common Elements.
+The members of. the Board of Members shall not be liable to the Unit Owners for 
+any mistake of judgment, negligence, or otherwise, except for their own 
+individual willful misconduct or bad faith. The Unit Owners shall indemnify and 
+hold harmless each of the members of the Board of Managers against all 
+contractual. liability to others arising out of contracts made by the Board of 
+Managers on behalf of the Condominium unless any such contract shall have been 
+made in bad faith or contrary to the provisions of the Declaration or of these 
+By-Laws. It is intended that the members of the Board of Managers shall have no 
+personal liability with respect to any contract made by them on behalf of the 
+Condominium within the scope of their authority. It is understood and 
+permissible for the original Board of Managers, who are members of the Sponsor, 
+to contract with the Sponsor and affiliated corporations without fear of being 
+charged with self- dealing. It is also intended that the liability of any Unit 
+Owner arising out of such contract made by the Board of Managers or out of the 
+aforesaid indemnity in favor of the members of the Board of Managers shall be 
+limited to such proportion of the total liability thereunder as his interest in 
+the Common Elements bears to the interests of all the Unit Owners in the Common 
+Elements. Every agreement made by the Board of Managers or by the managing agent 
+or by the Manager on behalf of the Condominium shall provide that the members of 
+the Board of Managers, or the Managing agent, or the manager, as the case may 
+be, are acting only as agent for the Unit Owners and shall have no personal 
+liability thereunder (except as Unit Owners), and that each Unit Owner's 
+liability thereunder shall be limited to such proportion of the total liability 
+thereunder as his interest in the Common Elements bears to the interest of all 
+Unit Owners in the Common Elements.
 
 ### Section 15. Executive Committee.
 
