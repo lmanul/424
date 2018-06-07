@@ -360,16 +360,16 @@ of Section 2 of Article II.
 
 ### Section 16. Other Committees
 
- The Board of Managers may by resolution create 
-such other committees as it shall deem appropriate and such committees shall 
-have such powers and authority as the Board of Managers shall vest therein. ~e 
-members of any such committee, at least one of whom shal= e designated by the 
-Sponsor or a Sponsor-designee, 30 long as a Sponsor or Sponsor-designee has the 
-right to designate ar it of the Board, shall be appointed by the President of 
-the = .adominium. The members of any such committee need not be a member of 
-the Board of Managers, but must be eligible to be elected to the Board of 
-Managers. Such committee shall not have power to do any act which the Executive 
-Committee may not do under subsections (a)-(d) of Section 15 of Article II.
+ The Board of Managers may by resolution create such other committees as it 
+shall deem appropriate and such committees shall have such powers and authority 
+as the Board of Managers shall vest therein. The members of any such committee, 
+at least one of whom shall be designated by the Sponsor or a Sponsor-designee, 
+so long as a Sponsor or Sponsor-designee has the right to designate a member of 
+the Board, shall be appointed by the President of the condominium. The members 
+of any such committee need not be a member of the Board of Managers, but must be 
+eligible to be elected to the Board of Managers. Such committee shall not have 
+power to do any act which the Executive Committee may not do under subsections 
+(a)-(d) of Section 15 of Article II.
 
 ## ARTICLE III -- UNIT OWNERS
 
