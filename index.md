@@ -516,7 +516,7 @@ all meetings of the Unit Owners.
 
 ### Section ll. Majority Vote.
 
-The vote of a majority of Onit Owners at a meeting at 
+The vote of a majority of Unit Owners at a meeting at 
 which a quorum shall be present shall be binding upon all Unit Owners for all 
 purposes except where, in the Declaration of these By-Laws or by law, ; a higher 
 percentage vote is required. _.
@@ -591,7 +591,7 @@ disbursements and for the preparation of all required financial data. He shall
 be responsible forth deposit of all moneys and other valuable effects in the. 
 name of the Board of Managers, or the managing agent, in such depositories as 
 may from time to time be designated by the Board of Managers, and he shall,in 
-general, perform ali the duties incident to the office of treasurer of a stock 
+general, perform all the duties incident to the office of treasurer of a stock 
 corporation organized under the Business Corporation Law of the State of New 
 York.
 
@@ -635,7 +635,7 @@ or after the time stated therein, shall be deemed the equivalent thereof.
 
 ## ARTICLE VI -- OPERATION OF THE PROPERTY
 
-### Section 1. Determination of Common Expenses and Pixing of Common Charges.
+### Section 1. Determination of Common Expenses and Fixing of Common Charges.
 
 The 
 Board of Managers shall from time to time, at least annually, prepare a budget 
@@ -665,7 +665,7 @@ based,to all Unit Owners and to their mortgagees, if so required.
 
 The Sponsor or Sponsor-designee shall be responsible for the Common Charges 
 assessed against a Unit owned by it from the date of the First Unit Closing 
-until such Unit is sold toa bona fide purchaser.
+until such Unit is sold to a bona fide purchaser.
 
 ### Section 2. Insurance.
 
@@ -679,7 +679,7 @@ furniture, furnishings, or other personal property supplied or installed by Unit
 Owners), together with all service machinery and equipment contained therein and 
 covering the interests of the Condominium, the Board of Managers and all Unit 
 Owners and their mortgagees as their interests may appear, in an amount to be 
-determined by the Board of Managers but in no event to be less tHKan eighty 
+determined by the Board of Managers but in no event to be less than eighty 
 percent of the full replacement cost of the Building, including footings and 
 foundations, as approved by a fire insurance company or a qualified insurance 
 broker; each of said policies shall contain a Condominium Property Endorsement 
@@ -697,7 +697,7 @@ other insurance as the Board of Managers may determine. All policies of physical
 damage insurance shall provide that adjustment of loss shall be made by the 
 Board of Managers (with the approval of the Insurance Trustee, if more than 
 $25,000.00), and that the total proceeds thereof, if $25,000.00 or less, shall 
-be payable to the Board of Managers and if. more than $25,000.00 shail be 
+be payable to the Board of Managers and if. more than $25,000.00 shall be 
 payable to the Insurance Trustee.
 
 All policies of physical damage insurance shall contain
