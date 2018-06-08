@@ -715,16 +715,15 @@ premiums, shall be delivered to all mortgagees of Units at least
 ten days prior to expiration of the then current policies if so
 required in writing by them. 
 
-The Board of Managers shall also be required to obtain
-and maintain, to the extent obtainable, public liability in-
-surance in such limits as the Board of Managers may from time to
-time determine, covering each member of the Board of Managers,
-the managing agent, the manager and each Unit Owner. Such public
-liability coverage shall also cover cross liability claims of one
-insured against another. until the first meeting of the Board of
-Managers elected by the Unit Owners the-public liability in-
-surance will be in a limit of at least $1,000,000.00 covering all
-claims for bodily injury with respect to any one occurrence.
+The Board of Managers shall also be required to obtain and maintain, to the 
+extent obtainable, public liability insurance in such limits as the Board of 
+Managers may from time to time determine, covering each member of the Board of 
+Managers, the managing agent, the manager and each Unit Owner. Such public 
+liability coverage shall also cover cross liability claims of one insured 
+against another. until the first meeting of the Board of Managers elected by the 
+Unit Owners the public liability insurance will be in a limit of at least 
+$1,000,000.00 covering all claims for bodily injury with respect to any one 
+occurrence.
 
 Unit Owners shall not be prohibited from carrying other insurance for their own 
 benefit, provided that all such policies shall contain waivers of subrogation 
