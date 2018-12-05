@@ -1,2 +1,2 @@
-# 424-bylaws
-The By-Laws for the building at 424 West 49th st, New York
+# 424
+Various documents and data concerning the building at 424 West 49th st, New York
