@@ -1,0 +1,15 @@
+Dear owner of unit __UNIT__,
+
+In the spirit of transparency, you are receiving this automated message to let you know what your current balance is with regards of common charge payments for your unit at 424 W 49th st, New York.
+
+Your current balance is: $__XYZ__
+
+__MESSAGE__
+
+If you have any questions, please refer to the common charges policy that you can find in the building's shared folder (inside 'reference'):
+
+    https://www.dropbox.com/sh/tdo1bxgz87ebfqu/AAAHo7m5jVIZ_Xvd3mAHixaxa?dl=0
+    Password: safeguardrealty
+
+Thank you,
+The 424 board

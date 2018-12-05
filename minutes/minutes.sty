@@ -1,0 +1,30 @@
+\documentclass{article}
+
+\newlength{\verticalmargin}
+\setlength{\verticalmargin}{2.4cm}
+
+\newlength{\interiormargin}
+\setlength{\interiormargin}{2.4cm}
+
+\newlength{\exteriormargin}
+\setlength{\exteriormargin}{2.4cm}
+
+\newlength{\minutespaperwidth}
+\setlength{\minutespaperwidth}{8.5in}
+
+\newlength{\minutespaperheight}
+\setlength{\minutespaperheight}{11in}
+
+
+\usepackage[
+  paperwidth=\minutespaperwidth,
+  paperheight=\minutespaperheight,
+  top=\verticalmargin,
+  bottom=\verticalmargin,
+  left=\interiormargin,
+  right=\exteriormargin
+]{geometry}
+
+% Charter
+\renewcommand*\rmdefault{bch}
+

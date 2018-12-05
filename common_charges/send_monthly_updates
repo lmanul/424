@@ -1,0 +1,60 @@
+#!/usr/bin/python3
+
+import os
+import time
+
+emails_lines = open("emails.txt").readlines()
+balances_lines = open("balance.txt").readlines()
+template = open("template.txt").read()
+
+messages = [
+  ("No further payments are required this month."),
+  ("Your balance is negative (you owe money to the building) but is not "
+   "low enough to incur any late charges at this point (the threshold is minus "
+   "500 dollars). If you have already made a payment, you may ignore this "
+   "notice."),
+  ("Your balance is negative (you owe money to the building) and is lower than "
+   "minus 500 dollars. Late charges will be deducted from your balance on the "
+   "20th of this month unless you make a payment before that date. We encourage "
+   "you to do so as soon as possible. If you have already made a payment, you "
+   "may ignore this notice."),
+]
+
+data = {}
+
+def get_message(amount):
+  if amount >= 0:
+    return messages[0]
+  elif amount >= -500:
+    return messages[1]
+  else:
+    return messages[2]
+
+for l in emails_lines:
+  parts = l.strip().split(":")
+  data[parts[0]] = []
+  data[parts[0]].append(parts[1])
+
+for l in balances_lines:
+  parts = l.strip().split(":")
+  data[parts[0]].append(float(parts[1]))
+
+for unit in data:
+  print("####### " + unit + " #######")
+  filled = template
+  filled = filled.replace("__UNIT__", "'" + unit + "'")
+  filled = filled.replace("__XYZ__", str(data[unit][1]))
+  filled = filled.replace("__MESSAGE__", get_message(data[unit][1]))
+  filled = ("From:Manu Cornet <m@ma.nu>\n"
+            "To:" + data[unit][0] + "\n"
+            "Cc:424 Board <424-board@googlegroups.com>\n"
+            "Subject:Monthly 424 W 49th st balance reminder\n\n") + filled
+  f_name = "temp_email_" + unit.lower() + ".txt"
+  f = open(f_name, "w")
+  f.write(filled)
+  f.close()
+  cmd = "msmtp " + data[unit][0] + " < " + f_name
+  os.system(cmd)
+  # Avoid being too spammy
+  time.sleep(5)
+  os.system("rm " + f_name)
