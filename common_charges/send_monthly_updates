@@ -56,5 +56,5 @@ for unit in data:
   cmd = "msmtp " + data[unit][0] + " < " + f_name
   os.system(cmd)
   # Avoid being too spammy
-  time.sleep(5)
+  time.sleep(60)
   os.system("rm " + f_name)
