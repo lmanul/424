@@ -1,6 +1,6 @@
 Dear owner of unit __UNIT__,
 
-In the spirit of transparency, you are receiving this automated message to let you know what your current balance is with regards of common charge payments for your unit at 424 W 49th st, New York.
+In the spirit of transparency, the purpose of this automated message is to let you know your current status for common charge payments on your unit at 424 W 49th st, New York.
 
 Your current balance is: $__XYZ__
 
