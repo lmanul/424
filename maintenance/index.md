@@ -1,3 +1,12 @@
+<style>
+
+img {
+  max-height: 50%;
+  max-width: 70%;
+}
+
+</style>
+
 # Maintenance
 
 ## Drainage clogs
@@ -10,4 +19,4 @@ In that case the water comes down the facade like this:
 Resolving the clog makes it flow more like a narrow stream away from the façade:
 
 
-![Resolved clog](img/east_clog_resolved.jpg)
+![Resolved clog](img/east_clog_fixed.jpg)
