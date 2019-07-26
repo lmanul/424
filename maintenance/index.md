@@ -1,6 +1,7 @@
 <style>
 
 img {
+  display: block;
   margin: 0 auto;
   max-height: 50%;
   max-width: 70%;
