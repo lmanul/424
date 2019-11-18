@@ -440,8 +440,7 @@ not less than forty-eight hours from the time the original meeting was called.
 
 ### Section 6. Order of Business.
 
-The order of business
-at all meetings of the Unit Owners shall be as follows:
+The order of business at all meetings of the Unit Owners shall be as follows:
 
 a. Roll call
 
@@ -449,13 +448,13 @@ b. Proof of notice of meeting
 
 c. Reading of minutes of preceding meeting
 
-d. Reports of officers .
+d. Reports of officers
 
 e. Report of Board of Managers
 
 f. Reports of committees
 
-g. Election of inspectors of .ection (when so required)
+g. Election of inspectors of election (when so required)
 
 h. Election of members of the Board of Managers (when so required)
 
@@ -559,7 +558,7 @@ such purpose.
 
 The President shall be the chief executive officer of the 
 Condominium. He shall preside at all meetings of the Unit Owners and of the 
-Board of Managers. de shall have all of the general powers and duties which are 
+Board of Managers. He shall have all of the general powers and duties which are 
 incident to the office of president of a stock corporation organized under the 
 Business Corporation Law of the State of New York including the power to appoint 
 members of committees created by the Board of Managers from among the Unit 
@@ -731,7 +730,7 @@ and further provided that the liability of the carriers issuing insurance
 obtained by the Board of Managers shall not be affected or diminished by reason 
 of any such additional insurance carried by any. Unit Owner. Such policies shall 
 be so endorsed as to state -:hat they will in no way conflict with any insurance 
-carried by tre Board of Managers.
+carried by the Board of Managers.
 
 ### Section 3. Repair or Reconstruction After Fire or Other Casualty.
 
@@ -759,22 +758,22 @@ destroyed or substantially damaged and Unit Owners whose percentage of Common
 Interest totals seventy- five percent in the aggregate of the proceed with 
 repair or restoration, the Property shall be subject to an action for partition 
 at the suit of any Unit Owner or lien or,as if owned in common, in which event 
-the net proceeds of sale, together with the net proceeds of insurance pe sies 
+the net proceeds of sale, together with the net proceeds of insurance policies 
 (or if there shall have been a repair or restoration pur: at to the first 
 paragraph of this Section 3, and the amount of insurance proceeds shall have 
 exceeded the cost of such repair or restoration,then the excess of such 
 insurance proceeds) shall be divided by the Board of Managers or the Insurance 
 Trustee, as the case may be, among all the Unit Owners in proportion to their 
-respective Common [nterest,. after first payment out of the share of each Unit 
+respective Common Interest, after first payment out of the share of each Unit 
 Owner the amount of any unpaid liens on his Unit, in the order of the priority 
 of such liens.
 
 Whenever in this Section the words “promptly repair" are used it shall mean 
 repairs are to begin not more than sixty days for Managers and the Unit Owner or 
 Unit Owners that it shall hold proceeds of insurance funds sufficient to pay the 
-estimated costs of such work; or not more than minety days after Insurance 
+estimated costs of such work; or not more than ninety days after Insurance 
 Trustee notified said Board of Managers and Unit Owner or Owners that such funds 
-are insufficient to pay said estimated costs ang advising them of the amount of 
+are insufficient to pay said estimated costs and advising them of the amount of 
 the required completion bond, if necessary. Wherever the words, “promptly 
 resolve” are used it shall also mean not more than Sixty days from the date of 
 receipt of said insurance funds.
@@ -803,7 +802,7 @@ purchaser of a Unit at a foreclosure sale of such Unit shall not be liable for
 and such Unit shall not be subject to a lien for the Payment of Common Charges 
 assessed prior to the foreclosure sale.
 
-### Section 5. Collection of Common Charges and Assess- ments.
+### Section 5. Collection of Common Charges and Assessments.
 
 The Board of Managers 
 shall assess Common Charges against the Unit Owners from time to time at least 
@@ -874,14 +873,14 @@ other fees and costs incurred in enjoining, abating or remedying such violation.
 
 ### Section 10. Maintenance and Repairs.
 
-a. All maintenance of and repairs to any Onit,ordinary or extraordinary, and to 
+a. All maintenance of and repairs to any Unit, ordinary or extraordinary, and to 
 the doors (except painting exterior Side of Unit entrance door), windows (except 
 Painting exterior side of windows), electrical (except Common Elements), 
 plumbing (except. Common Elements) and heating fixtures and air units within the 
 Unit or belonging to the Unit Owner shall be at the Unit Owner's expense, 
 excepting as otherwise specifically provided herein.
 
-b. All maintenance, repairs and teplacements to the General Common Elements as 
+b. All maintenance, repairs and replacements to the General Common Elements as 
 defined in the Declaration, and the painting and decorating of the exterior side 
 of Unit entrance doors and windows shall be made by the Board of Managers and be 
 charged to all the Unit Owners as a Common Expense, excepting to the extent that 
@@ -946,19 +945,18 @@ thereto) may be rented.
 
 ### Section 12. Additions, Alterations or Improvements by Board of Managers.
 
-Subject 
-to the provisions of Section 2 of ‘Article II of these By-Laws, whenever in the 
+Subject to the provisions of Section 2 of ‘Article II of these By-Laws, whenever in the 
 judgment of the Board of Managers the Common Elements shall require additions, 
 alterations or improvements. (but not Maintenance) costing in excess of 
 $5,000.00, and the making of such additions, alterations or improvements shall 
 have been approved by a majority of the Unit Owners, the Board of Managers 
 shall: proceed with such additions, alterations or improvements and shall assess 
-all Unit Owners for the cost thereof as a Common Charge. Any ad
-ditions,alterations or improvements costing $5,000.00 or less may be made by the 
+all Unit Owners for the cost thereof as a Common Charge. Any additions,
+alterations or improvements costing $5,000.00 or less may be made by the 
 Board of Managers without approval of the unit Owners and the cost thereof shall 
 constitute part of the Common Expenses.
 
-### Section 13. Additions, Alterations or Improvements by Onit Owners.
+### Section 13. Additions, Alterations or Improvements by Unit Owners.
 
 Except as 
 provided below, no Unit Owner shall make any structural addition, alteration or 
@@ -1089,12 +1087,12 @@ that it be afforded reasonable notification of any mortgage default.
 
 ### Section  2. Notice of Unpaid Common Charges.
 
-The S8o0ard of Managers when so requested in 
+The Board of Managers when so requested in 
 writing by a mortgagee of a Unit shall promptly notify any mortgagee of a Unit 
 of such Unit Owner's default, including non-payment of Common Charges, in the 
 Obligations of such Unit Owner under the Declaration,By~Laws, Rules and 
 Regulations, as the same are amended from time to time, or in any order of the 
-Board of Managers issued with trespect thereto.
+Board of Managers issued with respect thereto.
 
 ### Section 3. Notice of Default.
 
@@ -1138,7 +1136,7 @@ on the same terms and conditions as contained in such outside Offer. The giving
 of such notice shall constitute a warranty and representation by the Unit 
 Owner who has received such offer, to the Board of Managers on behalf of the 
 other. Unit Owners, that such Unit Owner believes the Outside Offer to be bona 
-fide in allrespects. Within twenty days after receipt of such notice, the 
+fide in all respects. Within twenty days after receipt of such notice, the 
 Board of Managers may elect, by notice given within Five days after making such 
 election, and in any event, within said twenty day period, to such Unit Owner, 
 by certified or registered mail, to purchase such Unit, together with the 
@@ -1162,7 +1160,7 @@ taxes arising out of such sale. In the event such Unit is to be leased, the
 offering Unit Owner shall execute and deliver to the Board of Managers, or to 
 its designee, a lease between the offering Unit Owner, as landlord, and the 
 Board of Managers, or its designee, as tenant, covering such Unit, for the 
-rental and term contained in such Outside Gffer.
+rental and term contained in such Outside Offer.
 
 In the event the Board of Managers or its designee fail to notify the offering 
 Unit Owner of. its decision to accept such offer within twenty days after 
@@ -1198,8 +1196,7 @@ with all of the terms and provisions of this Section 1 of this Article VIII.
 Any purported sale or lease of a Unit in violation of this section shall be 
 voidable at the election of the Board of Managers.
 
-### Section 2. Consent of Unit Owners to Purchase or Lease of Units by Board of 
-Managers.
+### Section 2. Consent of Unit Owners to Purchase or Lease of Units by Board of Managers.
 
 The Board of Managers shall not exercise any option herein above set 
 forth to purchase or lease any Unit without the prior approval of a majority of 
@@ -1221,7 +1218,7 @@ appurtenant, or as part of a sale, transfer or other disposition of such part of
 the Appurtenant interests of all Units.
 
 ### Section 4. Release by Board of Managers of Right of
-Pirst Refusal.
+First Refusal.
 
 The right of first refusal contained in Section l
 of this Article VIII may be released or waived by the Board of
@@ -1238,13 +1235,13 @@ Section 1 of this Article VIII have been met by a Unit Owner, or
 have been duly waived by the Board of Managers and the rights of
 the Board of Managers thereunder have terminated, shall be
 conclusive upon the Board of Managers in favor of all persons who
-rely there on in good faith. Such certificates shall be fur-
-nished to any Unit Owner who has in fact complied with the
+rely there on in good faith. Such certificates shall be furnished to any
+Unit Owner who has in fact complied with the
 provisions of Section 1 of this Article VIII or in respect to
 whom the provisions of such section have been waived, upon
 request.
 
-### Section 6. Pinancing of Purchase of Units by Board of Managers.
+### Section 6. Financing of Purchase of Units by Board of Managers.
 
 Acquisition or 
 lease of Units by the Board of Managers, or its designee, on behalf of all Unit 
@@ -1268,7 +1265,7 @@ The provisions of Section 1 of this Article VIII shall
 not apply with respect to any sale or conveyance or lease by a Unit Owner of his 
 Unit, together with the Appurtenant Interests, to his spouse or to any of his 
 children or to his parent or parents or to his brothers or sisters, or any one 
-or more of them,or to any Onit owned by the Sponsor or Sponsor-designee, or to 
+or more of them,or to any Unit owned by the Sponsor or Sponsor-designee, or to 
 the acquisition or sale of any Unit, together with the Appurtenant Interests, by 
 a mortgagee herein authorized who shall acquire title to such Unit by 
 foreclosure or by deed in lieu of foreclosure. _ However, the provisions of this 
@@ -1333,7 +1330,7 @@ Insurance Trustee, as the case may be, shall disburse. proceeds of such award to
 the contractors engaged in and restoration in appropriate progress payments. In 
 -the event that seventy-five percent or more of the Unit Owners do not duly and 
 promptly approve the repair and restoration of such Common Element, the Board of 
-Managers shall disburse the net Proceeds of such award in the same manner ag 
+Managers shall disburse the net Proceeds of such award in the same manner as 
 they are required to distribute insurance proceeds where there is no repair of 
 restoration of the damage, as provided in Sections 3 of this Article VI of these 
 By-Laws. As used in this Section, the words “promptly approve” shall mean not 
@@ -1345,16 +1342,16 @@ more than Sixty days from the date of such taking.
 
 The Board of Managers or the managing agent shall 
 keep detailed records of the actions managing agent, minutes of the meetings of 
-the Board of Managers, minutes of the meetings of the Onit Owners, and financial 
-records and books of account of the condominium, including a chronolo 
-expenditures, as well as a Separate account for each Unit which, among other 
-things, shall contain the amount of each assessment sf Common Charges against 
+the Board of Managers, minutes of the meetings of the Unit Owners, and financial 
+records and books of account of the condominium, including a chronological listing of receipts and
+expenditures, as well as a separate account for each Unit which, among other 
+things, shall contain the amount of each assessment of Common Charges against 
 such Unit, the date when due, the amounts paid thereon, and the balance 
-remaining unpaid. [n addition, an annual report of the receipts and expenditures 
+remaining unpaid. In addition, an annual report of the receipts and expenditures 
 of the Condominium, certified by an independent certified public accountant, 
 shall be rendered by the Board of Managers to all Unit Owners, and. to each 
 holder of a mortgage constituting a first lien on one or more Units, promptly 
-after the end of each fiscal year. .
+after the end of each fiscal year.
 
 ## ARTICLE XI -- MISCELLANEOUS
 
@@ -1362,7 +1359,7 @@ after the end of each fiscal year. .
 
 The invalidity of any part of these By-Laws shall not 
 impair or affect in any manner the validity, enforceability or effect of the 
-balance of these By- Laws. .
+balance of these By-Laws.
 
 ### Section 2. Captions.
 
@@ -1389,7 +1386,7 @@ breaches thereof which may occur.
 The Insurance Trustee shall be a bank, trust 
 company or savings and loan association in the State of New York, designated by 
 the Board of Managers (with the approval of each of the holders of five or more 
-Unit. first mortgagees). In the event that the Insurance Trustee shall tesign, 
+Unit. first mortgagees). In the event that the Insurance Trustee shall resign, 
 the new Insurance Trustee shall also be a bank, trust company or savings and 
 loan association in the State of New York, designated by the Board of Managers 
 (with the approval of each of the holders of five or more Unit first 
@@ -1444,11 +1441,11 @@ permitted by the Board of Managers. ~
 profession of any kind, commercial, religious, educational or otherwise, 
 designed for profit, altruism, or otherwise, shall be conducted, maintained or 
 permitted in any part of the Residential Units or Common Elements nor shall any 
-"Por Sale", "Por Rent" or. "For Lease" signs or other window displays or 
+"For Sale", "For Rent" or. "For Lease" signs or other window displays or 
 advertising be maintained or permitted in any Residential unit therein or 
 adjoining Common Elements, nor shall any Residential Unit be rented for 
 transient, hotel or motel purposes. The right is reserved by the Sponsor, its. 
-designee and the Board of Managers, or its agent, to place "Por Sale", "Por 
+designee and the Board of Managers, or its agent, to place "For Sale", "For 
 Rent" or “For Lease” or similar signs on any unsold or unoccupied Units, and the 
 right is hereby given to any mortgagee, who may become the owner of any Unit, to 
 place such signs on any Unit owned by such mortgagee, but in no event will any 
@@ -1466,21 +1463,21 @@ manner without prior written consent of the Board of Managers.
 4. No furniture, equipment, or other personal articles shall be placed in 
 entrances, hallways, stairways, or other Common Elements.
 
-5. No Unit Owner shall make or permit any noise or ‘objec tionable odor that 
-will disturb or annoy the occupants c any of the Units in the Building or do or 
-permit anything tz be done therein which will interfere with the cights, 
-comfort, Or convenience of other Unit Owners.
+5. No Unit Owner shall make or permit any noise or objectionable odor that 
+will disturb or annoy the occupants of any of the Units in the Building or do or 
+permit anything to be done therein which will interfere with the rights, 
+comfort, or convenience of other Unit Owners.
 
 6. Each Unit Owner shall keep his Unit in a good. state of preservation and 
 cleanliness and shall not sweep or throw or permit to be swept or thrown 
 therefrom, or from the doors or windows of a Unit, any dirt or other substances.
 
 7. No exterior shades, awnings, window guards, ventilators, fans or 
-air-conditioning devices shall be used on or about> the Suilding or Common 
+air-conditioning devices shall be used on or about> the Building or Common 
 Elements except such as shall have been approved by the Board of Managers.
 
-8. Except as provided above, no sign,: notice, letteri. , or advertisement shall 
-be inscribed or exposed on or ~. any window, door, or other part of the 
+8. Except as provided above, no sign,: notice, lettering, or advertisement shall 
+be inscribed or exposed on or ?? any window, door, or other part of the 
 Building, except such as shall have been approved in writing by the Board of 
 Managers, nor shall anything be projected out of any window of the Building 
 without similar approval.
@@ -1518,8 +1515,8 @@ authorized by them, may enter any Unit at a reasonable hour of the day for any
 purpose permitted under the terms of the Declaration, By-Laws, or Rules and 
 -Regulations of the Condominium.
 
-15. The Board of Managers may retain a Passkey to each Unit. No Onit Owner shall 
-alter any lock on any door leading into his Onit without the prior consent of 
+15. The Board of Managers may retain a Passkey to each Unit. No Unit Owner shall 
+alter any lock on any door leading into his Unit without the prior consent of 
 the Board of Managers. If such consent is given, the Unit Owner shall provide 
 the Board of Managers with a key for their use.
 
