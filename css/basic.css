@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background-color: #eee;
+  font-family: 'Roboto', arial, sans-serif;
+  margin: 0 auto;
+  max-width: 1200px;
+}
+
+body {
+  background-color: #fff;
+  border: 1px solid #bbb;
+  font-size: 90%;
+  margin: 4ex;
+  overflow-x: hidden;
+  padding: 3ex;
+}
+
+img {
+  max-width: 80%;
+}
+
+h2 {
+  color: #65a1da;
+  font-size: 140%;
+}
+
+h3 {
+  color: #49bc4e;
+  font-size: 125%;
+}
+
+h4 {
+  color: #e36400;
+  font-size: 115%;
+}
